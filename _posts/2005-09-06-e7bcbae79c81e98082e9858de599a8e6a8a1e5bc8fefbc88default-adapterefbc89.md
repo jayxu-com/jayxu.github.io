@@ -10,7 +10,7 @@ aktt_notify_twitter:
     - 'yes'
     - 'yes'
 views:
-    - '3433'
+    - '3467'
 shorturl:
     - 'http://goo.gl/frO0r'
 posturl_add_url:

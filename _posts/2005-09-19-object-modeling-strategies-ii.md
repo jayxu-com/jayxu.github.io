@@ -13,7 +13,7 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '1345'
+    - '1371'
 ---
 
 <i><strong>Str#1d. "Invest an Hour" Strategy // activities and model components</strong></i>

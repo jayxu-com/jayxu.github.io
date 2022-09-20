@@ -12,7 +12,7 @@ aktt_notify_twitter:
 dsq_thread_id:
     - '4271294696'
 views:
-    - '3897'
+    - '3934'
 shorturl:
     - 'http://goo.gl/ZCnJo'
 duoshuo_thread_id:

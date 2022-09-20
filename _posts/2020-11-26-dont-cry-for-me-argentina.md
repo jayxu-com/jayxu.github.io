@@ -13,7 +13,7 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '950'
+    - '1029'
 image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2020/11/WechatIMG270.jpeg'
 ---
 

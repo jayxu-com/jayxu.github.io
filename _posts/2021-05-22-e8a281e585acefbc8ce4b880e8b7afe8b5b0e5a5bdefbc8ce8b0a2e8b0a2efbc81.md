@@ -13,7 +13,7 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '389'
+    - '440'
 image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2021/06/一梦七十年-scaled.jpg'
 ---
 

@@ -13,7 +13,7 @@ enclosure:
     - "http://cd04.static.jango.com/music/14/09/37/1409372154.mp3\n4391078\naudio/mpeg"
     - "http://cd04.static.jango.com/music/14/09/37/1409372154.mp3\n4391078\naudio/mpeg"
 views:
-    - '3181'
+    - '3204'
 shorturl:
     - 'http://goo.gl/Vr1Zw'
 duoshuo_thread_id:

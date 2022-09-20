@@ -9,7 +9,7 @@ permalink: /2022/02/26/17980
 posturl_add_url:
     - 'yes'
 views:
-    - '169'
+    - '237'
 hefo_before:
     - '0'
 hefo_after:

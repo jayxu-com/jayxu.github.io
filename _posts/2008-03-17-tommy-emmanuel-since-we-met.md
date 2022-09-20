@@ -7,7 +7,7 @@ layout: post
 guid: 'http://ijay.net.cn/log/2008/03/17/305/'
 permalink: /2008/03/17/305
 views:
-    - '3961'
+    - '4062'
 shorturl:
     - 'http://goo.gl/e8fgM'
 duoshuo_thread_id:

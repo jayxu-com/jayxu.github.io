@@ -13,7 +13,7 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '591'
+    - '632'
 image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2021/05/Wticher2_10thAnniversary_1920x1080-2_obj1g7ly85f11jes.jpg'
 ---
 

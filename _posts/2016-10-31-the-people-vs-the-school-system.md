@@ -13,7 +13,7 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '2600'
+    - '2633'
 enclosure:
     - "https://www.jayxu.com/log/wp-content/uploads/2016/10/WeChatSight2045.mp4\r\n17929497\r\nvideo/mp4\r\n"
 duoshuo_thread_id:

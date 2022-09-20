@@ -13,7 +13,7 @@ aktt_tweeted:
     - '1'
     - '1'
 views:
-    - '6451'
+    - '6488'
 shorturl:
     - 'http://goo.gl/v8uC5'
 duoshuo_thread_id:

@@ -13,7 +13,7 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '1403'
+    - '1509'
 image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2021/02/defi-decentralized-finance-background-on-an-ecosystem-1.jpg'
 ---
 

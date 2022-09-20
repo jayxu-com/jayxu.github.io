@@ -9,7 +9,7 @@ aktt_notify_twitter:
     - 'yes'
     - 'yes'
 views:
-    - '9140'
+    - '9227'
 dsq_thread_id:
     - '4284715497'
 shorturl:

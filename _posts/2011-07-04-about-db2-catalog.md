@@ -9,7 +9,7 @@ permalink: /2011/07/04/10658
 aktt_notify_twitter:
     - 'yes'
 views:
-    - '3280'
+    - '3315'
 aktt_tweeted:
     - '1'
 dsq_thread_id:

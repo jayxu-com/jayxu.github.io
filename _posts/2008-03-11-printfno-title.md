@@ -7,7 +7,7 @@ layout: post
 guid: 'http://ijay.net.cn/log/2008/03/11/295/'
 permalink: /2008/03/11/295
 views:
-    - '3898'
+    - '3934'
 aktt_notify_twitter:
     - 'yes'
 shorturl:

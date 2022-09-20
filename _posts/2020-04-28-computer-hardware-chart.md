@@ -9,7 +9,7 @@ permalink: /2020/04/28/16896
 posturl_add_url:
     - 'yes'
 views:
-    - '931'
+    - '997'
 hefo_before:
     - '0'
 hefo_after:

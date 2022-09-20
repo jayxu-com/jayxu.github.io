@@ -9,7 +9,7 @@ permalink: /2016/06/17/15325
 posturl_add_url:
     - 'yes'
 views:
-    - '2408'
+    - '2439'
 enclosure:
     - "http://www.jayxu.com/video/java-lambda.flv\r\n64424637\r\nvideo/x-flv\r\n"
 dsq_thread_id:

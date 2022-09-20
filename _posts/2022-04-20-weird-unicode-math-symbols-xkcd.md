@@ -13,7 +13,7 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '98'
+    - '159'
 image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2022/04/weird_unicode_math_symbols_2x.png'
 ---
 

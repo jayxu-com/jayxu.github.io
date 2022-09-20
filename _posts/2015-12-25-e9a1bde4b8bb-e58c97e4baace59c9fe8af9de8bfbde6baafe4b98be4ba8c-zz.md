@@ -9,7 +9,7 @@ permalink: /2015/12/25/14409
 posturl_add_url:
     - 'yes'
 views:
-    - '2334'
+    - '2412'
 dsq_thread_id:
     - '4432484352'
 duoshuo_thread_id:

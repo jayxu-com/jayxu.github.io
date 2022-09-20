@@ -13,7 +13,7 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '2717'
+    - '2754'
 duoshuo_thread_id:
     - '6348273092292248322'
 dsq_thread_id:

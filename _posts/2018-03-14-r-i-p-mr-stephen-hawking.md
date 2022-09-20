@@ -13,7 +13,7 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '3164'
+    - '3221'
 image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2018/03/E872BF9973A3CB1C300028A3CD9F7544.jpg'
 ---
 

@@ -9,7 +9,7 @@ permalink: /2021/05/23/17621
 posturl_add_url:
     - 'yes'
 views:
-    - '761'
+    - '820'
 hefo_before:
     - '0'
 hefo_after:

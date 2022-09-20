@@ -13,7 +13,7 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '4502'
+    - '4562'
 enclosure:
     - "http://www.jayxu.com/log/wp-content/uploads/2016/08/HRM.mp4\r\n3476845\r\nvideo/mp4\r\n"
 dsq_thread_id:

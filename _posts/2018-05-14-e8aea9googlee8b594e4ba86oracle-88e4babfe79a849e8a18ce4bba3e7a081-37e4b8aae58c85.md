@@ -13,7 +13,7 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '3289'
+    - '3349'
 image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2018/05/Oracle-Google-Android-Lawsuit-1.jpg'
 ---
 

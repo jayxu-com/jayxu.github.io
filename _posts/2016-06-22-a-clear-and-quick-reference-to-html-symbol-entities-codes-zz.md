@@ -9,7 +9,7 @@ permalink: /2016/06/22/15429
 posturl_add_url:
     - 'yes'
 views:
-    - '3004'
+    - '3034'
 dsq_thread_id:
     - '4929269545'
 hefo_before:

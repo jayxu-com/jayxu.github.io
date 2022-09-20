@@ -13,7 +13,7 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '522'
+    - '548'
 image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2021/02/1140-mnra-covid-vaccine.imgcache.rev_.web_.1140.655.jpg'
 ---
 

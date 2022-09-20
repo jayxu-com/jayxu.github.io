@@ -13,7 +13,7 @@ dsq_thread_id:
     - '4271293785'
     - '4271293785'
 views:
-    - '3647'
+    - '3670'
 shorturl:
     - 'http://goo.gl/bUEf9'
 duoshuo_thread_id:

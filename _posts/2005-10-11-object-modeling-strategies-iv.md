@@ -9,7 +9,7 @@ permalink: /2005/10/11/16012
 posturl_add_url:
     - 'yes'
 views:
-    - '1264'
+    - '1302'
 hefo_before:
     - '0'
 hefo_after:

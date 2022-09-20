@@ -9,7 +9,7 @@ permalink: /2011/07/21/11337
 aktt_notify_twitter:
     - 'yes'
 views:
-    - '6422'
+    - '6454'
 aktt_tweeted:
     - '1'
 shorturl:

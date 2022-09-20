@@ -13,7 +13,7 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '4202'
+    - '4229'
 dsq_thread_id:
     - '5284949192'
 image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2016/11/022208-7303.png'
