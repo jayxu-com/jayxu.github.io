@@ -13,7 +13,7 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '1818'
+    - '2006'
 ---
 
 <h2>Java API 文档中文版</h2>

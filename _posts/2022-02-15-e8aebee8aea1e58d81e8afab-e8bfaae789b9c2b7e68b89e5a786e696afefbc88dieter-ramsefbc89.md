@@ -13,8 +13,8 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '343'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2022/02/Dieter_Rams_10_Design_Principles_h.jpeg'
+    - '863'
+image: /log/wp-content/uploads/2022/02/Dieter_Rams_10_Design_Principles_h.jpeg
 ---
 
 <!-- wp:image {"id":17956,"sizeSlug":"large","linkDestination":"attachment"} -->

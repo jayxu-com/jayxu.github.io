@@ -13,10 +13,10 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '4865'
+    - '5075'
 dsq_thread_id:
     - '5272440608'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2016/11/201512095561449652247953.jpg'
+image: /log/wp-content/uploads/2016/11/201512095561449652247953.jpg
 ---
 
 <a href="https://security.googleblog.com/2015/03/maintaining-digital-certificate-security.html" target="_blank">去年</a>是CNNIC（国字头的“中国互联网络信息中心”，12306网站证书的签发单位）

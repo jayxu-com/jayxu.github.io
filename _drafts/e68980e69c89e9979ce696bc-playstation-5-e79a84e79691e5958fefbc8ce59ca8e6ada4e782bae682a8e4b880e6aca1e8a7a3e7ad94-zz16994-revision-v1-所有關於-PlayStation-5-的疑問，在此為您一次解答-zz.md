@@ -1,0 +1,1889 @@
+---
+id: 17470
+title: '所有關於 PlayStation 5 的疑問，在此為您一次解答 [zz]'
+date: '2021-03-13T13:05:59+08:00'
+author: Jay
+layout: revision
+guid: 'https://www.jayxu.com/?p=17470'
+permalink: '/?p=17470'
+---
+
+<!-- wp:paragraph -->
+<p>原文转自：<a href="https://blog.zh-hant.playstation.com/2020/11/11/20201111-ps5/" target="_blank" rel="noreferrer noopener">Playstation Blog</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>歡迎閱讀！本文為您深入介紹 PlayStation 5 硬體、DualSense 無線控制器、系統功能、軟體詳情，以及非常、非常多的豐富資訊。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>這份常見問答的一覽表尚在編製階段，我們會持續關注各方提問，並於本月為主機上市做準備的同時，發布更新資訊。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>如有其他問題，請務必在下方留言。但是現在——請盡情閱讀。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2889} -->
+<figure class="wp-block-image"><img src="https://blog.zh-hant.playstation.com/tachyon/sites/8/2020/11/701f88f87b185dc8755bd22cb44eaa6838a59ecb.jpg?fit=1024%2C1024" alt="" class="wp-image-2889"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2><strong>第 1 節：主機硬體</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PlayStation 5 的發售日是何時？零售價格為何？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PlayStation 5 的全球發售日和各地建議零售價格如下：</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table><thead><tr><th>國家/地區</th><th>發售日</th><th>建議零售價格 (當地貨幣)</th></tr></thead><tbody><tr><td>香港</td><td>2020 年 11 月 19日</td><td>PS5 主機：HK$3,980 (建議零售價格)<br>PS5 數位版主機：HK$3,180 (建議零售價格)</td></tr><tr><td>台灣</td><td>2020 年 11 月 19 日</td><td>PS5 主機：NT$15,980(建議零售價格)<br>PS5 數位版主機：NT$12,980(建議零售價格)</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機和 PS5 數位版主機有何不同？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 主機和 PS5 數位版主機的唯一不同在於 PS5 主機配備 Ultra HD Blu-ray 光碟機。PS5 數位版主機未配備光碟機。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PS5 主機配備的 Ultra HD Blu-ray 光碟機可執行 PS5 的 Blu-ray 光碟遊戲和 PS4 的 Blu-ray 光碟遊戲，亦可播放 4K Ultra HD Blu-ray 光碟、標準 Blu-ray 光碟以及 DVD 影片。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PS5 數位版主機未配備 Ultra HD Blu-ray 光碟機。PS5 數位版主機擁有者可以透過 PlayStation Store 購買 PS5 和 PS4 遊戲，或透過 PlayStation Plus（需另購續費制的持續定期服務）。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>此外，在 4,000 多款 PS4 遊戲當中，超過 99% 也都可以在 PS5 主機或 PS5 數位版上遊玩，若使用 PS5 數位版，這些遊戲需要從 PlayStation Store 下載， 而配備 Blu-ray 光碟機的 PS5 機型也可以支援 PS4 Blu-ray光碟。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://support.asia.playstation.com/chttw/s/article/ans-chttw00290" target="_blank" rel="noreferrer noopener">您可以在此深入瞭解在 PS5 主機上遊玩 PS4 遊戲的詳細資訊。</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>請注意：Blu-ray 光碟無法搭配 PS5 數位版主機使用。您所擁有的 PS4 Blu-ray 光碟將無法搭配 PS5 數位版主機使用。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機和 PS5 數位版主機的效能是否有任何差異？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>沒有。除了是否配備光碟機以外，兩款主機的效能並無不同。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機和 PS5 數位版主機的實體尺寸為何？重量為何？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 主機大約為 390mm x 104mm x 260mm（寬 x 高 x 深）（不含底座），重量約為 4.5kg。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PS5 數位版主機大約為 390mm x 92mm x 260mm（寬 x 高 x 深），重量約為 3.9kg。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機的兩種機型都能以水平或垂直兩種方向放置使用嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以，兩款 PS5 主機皆配備底座，可供使用者將主機調整為垂直或水平放置。請觀看我們的<a href="https://blog.zh-hant.playstation.com/2020/10/07/20201007-ps5-2/">&nbsp;PS5 拆解影片</a>以瞭解操作方式。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 會推出其他顏色款式嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 主機的兩種機型發售時不會推出其他顏色或設計款式。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 支援哪些輸出/輸入連接埠和連線功能？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table><tbody><tr><td><strong>輸入/輸出<br>主機正面</strong></td><td>USB Type-C® 連接埠 (Super-Speed USB 10Gbps)<br>USB Type-A 連接埠 (Hi-Speed USB)</td></tr><tr><td><strong>輸入/輸出<br>主機背面</strong></td><td>USB Type-A 連接埠 (Super-Speed USB 10Gbps) x2</td></tr><tr><td><strong>網路</strong></td><td>乙太網路 (10BASE-T、100BASE-TX、1000BASE-T)<br>Wifi：IEEE 802.11 a/b/g/n/ac/ax</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 是否採用「電源變壓器」？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>不需要，PS5 內建電源供應器。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 新發售的 PS5 包裝有什麼內容物？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>無論選擇哪一款機型，都包含下列各項：</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>PS5 主機或 PS5 數位版主機</li><li>一個 DualSense 無線控制器</li><li>DualSense 無線控制器專用 USB Type-C 對 Type A 充電線</li><li>HDMI 連接線（相容於 HI v2.1 定義的超高速規格）</li><li>交流電源</li><li>讓您能垂直或水平放置主機的底座</li><li>快速參考指南和安全指南</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>此外，兩款 PS5 機型都預先安裝了免費遊戲。《Astro’s Playroom》是一款全新平台遊戲，可讓 PS5 玩家探索四種世界，各別展示如何運用 DualSense 無線控制器的全新豐富功能，體驗創新遊戲玩法。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2888} -->
+<figure class="wp-block-image"><img src="https://blog.zh-hant.playstation.com/tachyon/sites/8/2020/11/cfd19f78bd017ff520fa9cebad17c226fafc7382.jpg?fit=1024%2C1024" alt="" class="wp-image-2888"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>第 1 分節：超高速 SSD</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 的 SSD 有何特別之處？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 配備超高速 SSD 和整合式客製化 I/O 系統，旨在於消除遊玩過程中的頓挫感，尤其是載入畫面的延宕。開發商能以不可思議的速率將遊戲資料串流到 PS5 遊戲之中，帶來流暢生動的 PS5 遊玩體驗，以近乎即時的速度在廣大的遊戲世界穿梭自如。隨著速度提升，遊戲開發商將可創造更廣大、豐富的世界，不再受制於傳統侷限（例如載入時間），也讓玩家有更多時間享受遊戲而非等待。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>請閱讀<a href="https://blog.zh-hant.playstation.com/2020/09/01/20200901-ps5/">本文</a>，瞭解開發商如何評論 PS5 的超高速 SSD。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 的超高速 SSD 與其他 SSD 有何不同？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 的超高速 SSD 具備頂尖的 5.5GB/s (raw) 讀取頻寬，歸功於其進階、高度客製化的設計和整合式 I/O，其中包括專屬的解壓縮單元（<a href="https://www.youtube.com/watch?v=ph8LyNIT9sg&amp;feature=youtu.be&amp;t=886" target="_blank" rel="noreferrer noopener">詳見此處</a>）。我們開發此元件的具體目標是減少載入時間，希望能大幅提升開發商以超快速度存取遊戲資料的能力。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>我們認為，這意味著資料存取技術的跨世代躍進，也釋放了遊戲開發商的潛力，可以創造出空前廣闊、豐富且流暢的遊戲體驗。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機下載和儲存遊戲的能力有任何提升嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>就像 PS4，PS5 遊戲也提供「首選安裝」功能，可讓玩家選擇先安裝遊戲中的某一部分。如此一來，玩家將可以優先存取特定的模式或功能。例如，玩家可以選擇優先安裝遊戲中單人遊玩或多人遊玩的部分。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>在 PS5 支援的遊戲中，玩家還可以選擇移除不再想要的特定模式或內容，藉此釋放儲存空間。這些功能的支援程度最終由開發商決定，而目標都是為了實現最佳的儲存靈活度。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>一般而言，PS5 主機下載並套用遊戲軟體更新的速度應該高於 PS4 主機，因為前者可更有效管理更新項目和修補程式的資料大小。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>此外，當玩家使用最新版本的行動裝置版 PlayStation App 將佇列中的遊戲下載至主機時，可以遠端管理 PS5 主機的儲存空間，以免發生空間不足的問題。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 遊戲可以透過 USB 硬碟來儲存或遊玩嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>不行，玩家無法將 PS5 遊戲傳輸到 USB 硬碟。PS5 遊戲必須儲存在主機內建的超高速 SSD 才能遊玩。目前正在研究在未來的更新中推出新功能，讓玩家可以在 USB 硬碟上儲存（但不是遊玩）PS5 遊戲。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>不過，您可以將相容的 USB 硬碟連接到 PS5 主機，用以儲存和遊玩 PS4 遊戲。請繼續閱讀以瞭解更多詳情。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 的超高速 SSD 儲存空間可以擴充嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 主機配備一個擴充連接埠，可在未來支援玩家新增 M.2 SSD 儲存空間，用於安裝和遊玩 PS5 遊戲。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>這項 M.2 SSD 儲存空間升級功能預計在 PS5 主機發售後的系統軟件更新中推出。我們日後將發佈更多詳細資訊，包括哪些類型的 M.2 SSD 儲存空間硬碟相容於 PS5 主機。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>主機上市時，您就可以連接相容的 USB 硬碟並用於儲存和遊玩 PS4 遊戲。PS4 遊戲只需儲存在外接裝置中，就能遊玩。PS5 遊戲必須先存入 PS5 主機內建的 SSD，才能開始遊玩。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● M.2 SSD 硬碟是什麼？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>M.2 SSD 硬碟是一種高速 SSD 媒體，可用於升級支援裝置的儲存容量。兩種 PS5 主機機型預計在發售後的系統軟件更新中推出 M.2 SSD 儲存空間擴充的支援功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 是否需要搭配特定類型或速度的 M.2 SSD 硬碟使用？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的，M.2 SSD 硬碟必須具備一定程度以上的效能，我們日後將發佈更多詳細資訊。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我應該在 PS5 發售後，隨即購買一顆搭配使用的 M.2 SSD 硬碟嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>不用。目前建議暫勿購買任何 M.2 SSD 硬碟來搭配 PS5 主機使用。我們日後會進一步詳細介紹建議使用的硬碟。M.2 SSD 儲存空間功能預計會在 PS5 發售不久後的系統軟件更新中推出。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2892} -->
+<figure class="wp-block-image"><img src="https://blog.zh-hant.playstation.com/tachyon/sites/8/2020/11/55728d6dcddaf780272448861a9f8537b7689e01.jpg?fit=1024%2C1024" alt="" class="wp-image-2892"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>第 2 分節: 3D 音效</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 什麼是 Tempest 3D AudioTech？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Tempest 3D AudioTech 是專為 PS5 訂製的 3D 音效引擎，可透過與 PS5 相容的耳機組實現專屬的 3D 音效，提供高品質音效，讓遊戲呈現更身歷其境的沉浸感。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 的 3D 音效對遊戲體驗有何助益？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>遊戲將可獲益於 PS5 先進的 3D 音效功能，依開發團隊的目標呈現不同面向的效果。除了各種進階音效功能外，PS5 的 3D 音效也支援高度準確的音訊定位。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>例如，玩家可以聽見箭掠過頭部的聲音，或者聽到其他房間的腳步聲，然後發現敵人的位置。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 所有 PS5 遊戲都有 3D 音效嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的。在 PS5 的 Tempest 3D AudioTech的加持下，即使是簡單的聲道式音效也會有更豐富的層次感。各款遊戲確切的 3D 音效可能有所不同，而開發商的優化處理將可提供最佳體驗</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>更廣泛地說，PS5 主機的音效處理功能大幅超越 PS4，賦予 PS5 遊戲開發商強大新穎的工具，創造出絕佳的遊戲音效。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 可以使用哪一類耳機組來享受 3D 音效？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PULSE 3D 無線耳機組經過精心研製，可充分發揮 PS5 的 3D 音效功能。精緻設計搭配雙消噪麥克風，以及一組易於使用的操作選項，PULSE 3D 無線耳機組可提供流暢的聽覺體驗。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>若玩家已經有 PS5 相容的耳機組，也可以透過該耳機組在 PS5 主機上體驗 3D 音效，方法包括使用主機的 USB 連線，或將類比式耳機組插入 DualSense 無線控制器的 3.5mm 耳機組連接端。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 3D 音效可否透過電視機喇叭傳送？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 主機上市時並未支援電視機喇叭虛擬環繞音效，但已規劃於日後更新中推出此功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我如何透過 PS5 獲得最佳 3D 音效體驗？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>使用與 PS5 相容的立體聲耳機組，可將音訊分別傳送至兩個耳朵，進而提供最佳 3D 音效體驗。此外，有鑑於各人耳部構造略有不同，PS5 內建一組使用者設定檔，可供玩家從中選擇最理想的音效。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>第 3 分節：GPU、CPU 和 RAM</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● AMD CPU 和 GPU 的規格為何？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table><tbody><tr><td>CPU</td><td>x86-64-AMD Ryzen™「Zen 2」<br>8 核心 / 16 執行緒<br>可變頻率，最高 3.5 GHz</td></tr><tr><td>GPU</td><td>AMD Radeon™ RDNA 2 圖像引擎<br>光線追蹤加速功能<br>可變頻率，最高 2.23 GHz (10.3 TFLOPS)</td></tr><tr><td>系統記憶體</td><td>GDDR6 16GB<br>448GB/s 頻寬</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading {"level":4} -->
+<h4><strong>● 光線追蹤究竟是什麼？它如何增強 PS5 遊戲的視覺效果？</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 主機繪圖處理器 (GPU) 內建硬體光線追蹤加速功能，可供開發商以多種方式善加利用。&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>簡而言之，繪圖技術中的光線追蹤功能可模擬光線與物體和表面的互動，藉此產生更融入遊戲環境的視覺細節。PS5 遊戲開發商可因應不同遊戲的目標需求，利用光線追蹤功能，將水、玻璃、光線折射、陰影和表面的視覺效果做得更寫實或更震撼。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>也可以依開發商對 PS5 遊戲所設定的目標，來實現統一化光照模型或其他進階效果，帶來更廣泛的效益。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>第 4 分節：其他資訊</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 有哪些按鈕？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 主機有一個電源按鈕以及 Blu-ray 光碟專用的退出按鈕。PS5 數位版主機只有一個電源按鈕。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 玩遊戲時，PS5 主機會發出多大的聲音？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>我們的目標是讓 PS5 主機比 PS4 主機更安靜。這是因為電源傳輸和散熱系統已變更，並配備特製工程（包含訂製散熱器和液態金屬感熱介面材質）。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>您可以觀看我們最近推出的<a href="https://blog.zh-hant.playstation.com/2020/10/07/20201007-ps5-2/">拆解影片</a>，深入瞭解 PS5 主機的散熱系統。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機是否有待命模式？待命模式下可使用什麼功能？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>有的。系統處於待命模式時，螢幕會關閉，狀態指示燈會變成橘色，而 PS5 主機會進入省電狀態。在待命模式下，您可以設定系統執行特定動作，例如下載檔案或透過 USB 連接埠來為 DualSense 無線控制器充電。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>在所有市場發售的 PS5 主機皆預設啟用待命模式功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 在家中設置 PS5 主機的最佳作法為何？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>為保持通風良好，請遵循下列指引：<br>• 在距離牆面至少 10 公分（4 吋）處放置主機。<br>• 請勿放在長纖維地毯或止滑地墊上。<br>• 請勿放在狹窄或擁擠的空間。<br>• 請勿用布料覆蓋。<br>• 請勿讓通風口堆積灰塵。請使用吸塵器等清潔工具來清除堆積灰塵。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 需要使用 4K 電視機嗎？支援的解析度為何？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>不需要，PS5 主機不需要使用 4K 電視機。支援的解析度為 720p、1080i、1080p 和 2160p。連接 4K 顯示器時，PS5 可以輸出最高 2160p (4K UHD) 解析度的影像。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PS5上市時將可連接至 8K 顯示器，而在未來的系統軟件更新之後，將可透過支援的軟體為支援 8K 的內容輸出最高 8K 解析度的影像。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機是否支援 HDR？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的，PS5 主機將可支援 HDR10 規格。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機可否連接我的環繞音效系統或是單件式喇叭？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以，PS5 主機的 HDMI OUT 連接埠可用來連接玩家的電視機或音效系統。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機支援哪一種音訊輸出格式？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 主機可支援下列音訊格式：<br>・Dolby Digital（最多 5.1 聲道）<br>・Dolby Digital Plus)（最多 7.1 聲道）<br>・Dolby TrueHD（最多 7.1 聲道）<br>・DTS（最多 5.1 聲道）<br>・DTS-HD High Resolution Audio（最多 7.1 聲道）<br>・DTS-HD Master Audio（最多 7.1 聲道）<br>・AAC（最多 5.1 聲道）<br>・Linear PCM（最多 7.1 聲道）<br>・Dolby ATMOS 及 DTS:X 適用於 Blu-ray 及 Ultra HD Blu-ray 光碟影片（必須連接至支援的裝置）</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我應該使用哪一種 HDMI 連接線來將 PS5 連接到電視機或接收端？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>建議使用隨附的 HDMI 連接線，但通常可以使用支援 HDMI 2.1 的超高速 HDMI 連接線。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機可以在 120Hz 模式下支援 4K 嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以，PS5 主機支援 HDMI 2.1 規格。HDMI 2.1 支援 4K 120Hz，但與 HDMI 2.1 相容的 4K 電視機尚未充分打入市場。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.playstation.com/support/hardware/ps5-4k-resolution-guide/" target="_blank" rel="noreferrer noopener">更多資訊請點閱此處。</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2894} -->
+<figure class="wp-block-image"><img src="https://blog.zh-hant.playstation.com/tachyon/sites/8/2020/11/dd87c49453eb2f9372710887475423af91b6e7c8.jpg?fit=1024%2C1024" alt="" class="wp-image-2894"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2><strong>第 2 節：DualSense 無線控制器</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器與 DUALSHOCK 4 無線控制器有何區別？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>DualSense 無線控制器提升了玩家與遊戲互動的方式。這要歸功於多項新一代的沉浸式功能，包括觸覺回饋技術和自適應扳機，</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>這兩種功能都能產生震撼的觸感體驗，為玩家帶來更深刻的遊戲體驗，增進遊戲的互動性。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.playstation.com/accessories/dualsense-wireless-controller/" target="_blank" rel="noreferrer noopener">點此</a>深入瞭解 DualSense 無線控制器。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器的實體尺寸與重量為何？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>DualSense 無線控制器尺寸約為 160mm x 66mm x 106mm（寬 x 高 x 深）（不含最大突出部位）。其重量約為 280g。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器的觸覺回饋技術如何運作？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>新一代的觸覺回饋採用雙致動器，取代了傳統的「震動」功能，提供更生動的感官體驗，帶來更加身歷其境的感受。我們期待遊戲開發商發現許多有趣和實用的方式來善加利用 DualSense 無線控制器獨特的觸覺功能，包括使玩家享有更深刻的沉浸感受、傳達各種遊戲狀態等等。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>玩家可以依個人喜好降低特效或停用功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器的觸覺回饋強度與 DUALSHOCK 4 無線控制器的「震動」功能相較之下如何？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>傳統的「震動」技術藉由兩顆小型馬達的旋轉產生震動或搖晃感，可增進身歷其境的體驗。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>DualSense 無線控制器的新一代觸覺回饋技術採用雙致動器取代馬達，造就更迅速、準確的反應，以及遠勝以往的真實觸感。這類觸覺特效可帶來更多樣化的身體感受，例如集中在控制器特定部位的溫和脈動，以及更加強烈震撼的實體特效。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>在 PS5 主機上玩 PS4 遊戲時，DualSense 無線控制器的觸覺特效會模擬 DUALSHOCK 4 無線控制器的「震動」效果。有興趣體驗 PS4 遊戲原有「震動」特效的玩家，可以使用 DUALSHOCK 4 控制器在 PS5 主機上遊玩 PS4 遊戲。需要前向光條才能遊玩的遊戲，則必須搭配 DUALSHOCK 4 無線控制器。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>我們建議使用 DUALSHOCK4 無線控制器以獲得 PS5 上最佳的 PS VR 體驗。特定遊戲可能需要搭配使用 PlayStation Move 動態控制器，或必須相容於 PlayStation VR 射擊控制器。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>玩家將需要使用 DualSense 無線控制器來玩 PS5 遊戲。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器在遊戲中所使用的觸覺回饋有哪些例子？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>例如《Demon’s Souls》中的金屬敲擊感，或是 Astro 在《Astro’s Playroom》中奔跑路徑的表面質感。還有許多來自 PS5 遊戲開發商直接分享的例子可供您閱讀，請點選<a href="https://blog.zh-hant.playstation.com/2020/08/20/20200820-ps5/">此處</a>。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 自適應扳機如何運作？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>全新自適應扳機（整合至 L2 按鈕和 R2 按鈕）可模擬您在遊戲中的動作，產生震撼且即時的扳機效果。例如，玩家可以在遊戲中拉開弓弦，感受弓弦逐漸拉緊的張力；或者可以在賽車遊戲中踩煞車，感受急轉彎時的阻力。請點選<a href="https://blog.zh-hant.playstation.com/2020/08/20/20200820-ps5/">此處</a>，閱讀其他來自 PS5 遊戲開發商直接分享的例子。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>由於開發商可以分別編程各個扳機的阻力，因此我們預期 PS5 主機發售後會出現許多充滿創意的實作方式！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>玩家可以視個人喜好降低或停用扳機效果。如果遊戲未採用此功能，則 L2按鈕 和 R2 按鈕的作用將與 DUALSHOCK 4 無線控制器的按鈕類似。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器是否配備內建喇叭？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>DualSense 無線控制器的內建喇叭具備更高取樣頻率和聲學改良設計，可產生比 DUALSHOCK 4 無線控制器更清晰的聲音。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>多年來，遊戲開發商採用 DUALSHOCK 4 無線控制器的喇叭，以富創意的方式增強身歷其境的效果，而我們十分樂見這項傳統延續到 DualSense 無線控制器。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器是否配備內建麥克風？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的，DualSense 無線控制器具有內建麥克風陣列和內建回音消除機制，讓玩家不必配備耳機組也能迅速與好友交談，適合用來立即與好友展開簡短對話。但如果您計畫要聊久一點，還是建議您先將耳機組準備好。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>DualSense 無線控制器正面設有靜音按鈕，可讓使用者切換麥克風的開關。短按一下按鈕即可切換為靜音或解除靜音狀態，作用範圍包括控制器麥克風以及有線耳機組或 USB 耳機組上的麥克風；而長按則會將麥克風輸入及所有連接電視機、喇叭或耳機組的 PS5 音訊輸出切換為靜音。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2895} -->
+<figure class="wp-block-image"><img src="https://blog.zh-hant.playstation.com/tachyon/sites/8/2020/11/8f0fc66ca7a03ef2a84d7913e3f9f1fb63ee146c.jpg?fit=1024%2C1024" alt="" class="wp-image-2895"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器是否配備耳機組連接端？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的，DualSense 無線控制器內建了耳機組連接端，可供玩家插入耳機組、耳塞式耳機或其他相容音訊裝置，與 PS4 類似。玩家也可以連接有線耳機組，在多人遊玩的遊戲中與好友聊天。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機或 DualSense 無線控制器是否支援語音聽寫？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的，玩家可以使用 DualSense 無線控制器的麥克風或耳機組麥克風的語音聽寫功能輸入訊息或搜尋短語。產品發售時支援的語言包括日語、美式英語、英式英語、西班牙語、拉丁美洲西班牙語、法語、加拿大法語、義大利語和德語。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器是否支援動態控制？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的，此控制器內建了六軸動態感測系統（三軸陀螺儀與三軸加速度計）。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器的觸碰板是否有任何新功能？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>新款的觸碰板面積稍微加大，讓玩家操控上更加方便。觸碰板也內建光條，可用來表示控制器的狀態，也可顯示多種顏色來表示遊戲的狀態，運作方式類似以往的 DUALSHOCK 4 無線控制器。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器是否有「SHARE」按鈕？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的，基於我們業界首創 SHARE 按鈕的成功經驗，我們設計了「創建」按鈕。透過創建按鈕，我們再一次地支援玩家創造撼動人心的遊戲內容，可以與世人同樂，或個人獨享。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>請觀看我們的&nbsp;<a href="https://youtu.be/7TBPrYJDoDE" target="_blank" rel="noreferrer noopener">PS5 使用者體驗影片</a>，深入瞭解創建按鈕的運作方式。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器是否有光條？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的，DualSense 無線控制器有面向玩家的光條。對於需要前向光條且相容於 PS5 主機的 PS4 遊戲，玩家會需要使用 DUALSHOCK 4 無線控制器才能遊玩。我們建議使用 DUALSHOCK4 無線控制器以獲得 PS5 上最佳的 PS VR 體驗。特定遊戲可能需要搭配使用 PlayStation Move 動態控制器，或必須相容於 PlayStation VR 射擊控制器。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>DualSense 無線控制器的光條位於觸碰板的左右兩側，可顯示多種顏色來表示遊戲狀態，運作方式類似以往的 DUALSHOCK 4 無線控制器。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>觸碰板下方的玩者指示燈可以表示玩家角色，十分適用於本地端的多人遊玩模式。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 相較於 DUALSHOCK 4 控制器，DualSense 無線控制器是否改善了輸入延遲的問題？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>相較於 DUALSHOCK 4 無線控制器，DualSense 無線控制器改善了輸入延遲的問題。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 控制器是否支援任何協助工具選項？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的，PS5 玩家將可以減低或停用觸覺回饋和自適應扳機的力道。玩家還可以重新配置控制器按鈕的對應功能。此外，DualSense 無線控制器內建的麥克風支援語音聽寫功能，更方便玩家透過語音指令搜尋內容。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>請閱讀下文，進一步瞭解 PS5 主機協助工具功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2896} -->
+<figure class="wp-block-image"><img src="https://blog.zh-hant.playstation.com/tachyon/sites/8/2020/11/b3a40a9d28fef5bc2112baef3ff4237f5fc96a8c.jpg?fit=1024%2C1024" alt="" class="wp-image-2896"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器要如何充電？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>DualSense 無線控制器有兩種主要的充電方式。一種是由玩家使用隨附的 USB 連接線，透過 USB Type-C® 連接埠連接到 PS5主機（或任何相容的充電裝置）。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>另一種是使用 DualSense 充電座（另售），可同時為最多兩台控制器充電。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 控制器充飽電之後可以續航多久？充電需要多少時間？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>在多數情況下，電池續航力與 DUALSHOCK 4 無線控制器類似。連接 PS5 主機或 DualSense 充電座時，充電時間大約為三小時。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機一次可以連接幾台 DualSense 控制器？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 主機一次最多可以連接四台 DualSense 控制器。當您在本地端與多人一同遊玩，DualSense 無線控制器的玩者指示燈（位於觸碰板正下方）將會顯示您的玩家角色。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我可否使用 USB 連接線將 DualSense 無線控制器連接到 PS5 主機，然後以「有線」模式遊玩？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以，DualSense 控制器能透過 Bluetooth 5.1 無線模式操作，或使用隨附的 USB 連接線，直接連接至 PS5 主機以「有線」USB 模式操作。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器是否有黑色（或任何其他顏色）款式？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>其他顏色款式將於日後推出，但目前尚無相關的情報可以發佈。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器可以搭配我的 PS4 主機使用嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>DualSense 無線控制器並不相容於 PS4 主機。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我原有的 DUALSHOCK 4 無線控制器可以搭配 PS5 主機使用嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>若要在 PS5 主機上玩 PS4 遊戲，玩家可以使用 DUALSHOCK 4 無線控制器或是 DualSense 無線控制器。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PS5 遊戲則必須搭配 DualSense 無線控制器使用，因為這些遊戲的設計旨在善用新的沉浸式功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>我們建議使用 DUALSHOCK 4 無線控制器，以利在 PS5 主機上實現最佳 PS VR 體驗。特定遊戲可能需要搭配使用 PlayStation Move 動態控制器，或必須相容於 PlayStation VR 射擊控制器。PS5 新款 HD 攝影機並不相容於 PS VR。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PS VR 遊戲也需要使用 PS Camera（PS4）和 PS Camera 適配器。更多資訊請點閱<a href="https://www.playstation.com/explore/playstation-vr/" target="_blank" rel="noreferrer noopener">此處</a>。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器可以搭配我的電腦使用嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>在電腦上遙控遊玩支援透過 USB 有線連接使用 DualSense 無線控制器。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 如 SCUF Vantage 或 Astro C40 TR 等第三方控制器是否可以搭配 PS5 使用？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>專為 PS4 主機設計和授權的既有「特殊功能」控制器（例如方向盤控制器和街機格鬥搖桿）在 PS5 或 PS4 遊戲支援的前提下，都可以在 PS5 主機上操作。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>諸如 SCUF Vantage 和 Astro C40 TR 等標準遊戲控制器外型規格的授權 PS4 控制器，都可以用來在 PS5 主機上玩 PS4 遊戲。PS5 遊戲並不支援使用它們來遊玩。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器如何與 PS5 主機進行配對？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>配對很簡單：只要使用隨附的 USB 連接線將 DualSense 無線控制器連接到 PS5 主機，然後按下 PS 按鈕來啟動控制器。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 有哪些耳機組相容於 DualSense 無線控制器的耳機組連接端？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>凡是能透過耳機組連接端連接的耳機組皆可支援。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2897} -->
+<figure class="wp-block-image"><img src="https://blog.zh-hant.playstation.com/tachyon/sites/8/2020/11/d80b63677801d2f5214a2565f3529f9b3e547f38.png?fit=1024%2C1024" alt="" class="wp-image-2897"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2><strong>第 3 節：PS5 遊戲</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>第 1 分節：PS5 遊戲</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 發售日當天會有哪些遊戲上市？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>請參閱下列預定於 2020 年底前上市的最新遊戲清單。此清單尚在編製階段，可能會有所變更。下列遊戲將於11月12日或11月19日上市，發售日期因地區而異。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>SIE WORLDWIDE STUDIOS 遊戲：首發</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>《Astro’s Playroom》 (Japan Studio) （預先安裝於 PS5）</li><li>《Demon’s Souls》 (SIE Worldwide Studios、Bluepoint Games)</li><li>《Marvel’s Spider-Man: Miles Morales》 (Insomniac Games)</li><li>《Marvel’s Spider-Man Remastered》（隨附於 《Marvel’s Spider-Man: Miles Morales Ultimate Edition》）(Insomniac Games)</li><li>《Sackboy: A Big Adventure》 (Sumo Digital)</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>SIE WORLDWIDE STUDIOS 遊戲：開發中</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Worldwide Studios 另已確定開發下列遊戲：《Destruction AllStars》 (Lucid Games)、《Returnal》 (Housemarque Games)、《Horizon: Forbidden West》 (Guerrilla)、《Ratchet &amp; Clank: Rift Apart》 (Insomniac Games)、《Gran Turismo 7》 (Polyphony Digital)、《God of War》系列新作 (Santa Monica Studio)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>第三方遊戲：首發</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>《Assassins Creed Valhalla》 (Ubisoft)</li><li>《Borderlands 3》 (2K)</li><li>《Bugsnax》 (Young Horses)<ul><li>請注意：除中國和沙烏地阿拉伯外，其餘國家/地區將於 PlayStation 5 發售日起至 2021 年 1 月 4 日止開放 PlayStation Plus 會員免費下載！</li></ul></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul><li>《Call of Duty: Black Ops Cold War》 (Activision) （11月13日）</li><li>《Dead by Daylight》 (Behaviour)</li><li>《Devil May Cry 5》 (Capcom)</li><li>《Godfall》 (Gearbox Publishing)</li><li>《Goonya Fighter》 (Mutan)</li><li>《King Oddball》 (10Tons Ltd)</li><li>《NBA 2K21》 (2K)</li><li>《No Man’s Sky》 (Hello Games)</li><li>《Observer Redux》 (Bloober)</li><li>《Overcooked: All You Can Eat》 (Team 17)</li><li>《The Pathless》 (Annapurna Interactive)</li><li>《Planet Coaster》 (Frontier)</li><li>《Warhammer: Chaosbane Slayer Edition》 (Nacon)（除中國和日本外其餘國家/地區皆為數位版。日本訂於 2021 年初發售）</li><li>《Watch Dogs Legion》 (Ubisoft)</li><li>《WRC 9 FIA World Rally Championship》 (Nacon)（除中國和日本外其餘國家/地區皆為數位版。日本訂於 2021 年初發售）</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 還有哪些已確定開發的 PS5 遊戲？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>已有大量遊戲確定要為 PS5 主機進行開發，族繁不及備載。請隨時查看 PlayStation.Blog 和 PlayStation.com，掌握未來最新的遊戲發行資訊。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 如果我選擇從 Blu-ray 光碟安裝 PS5 遊戲，相較於購買並下載數位版遊戲，在效能上是否有所差別？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>沒有差別，遊戲一旦安裝至超高速 SSD，無論是從 Blu-ray 光碟或從 PlayStation Store 下載，兩者效能相同。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我可否暫時中止 PS5 遊戲，之後再從暫停處繼續進行？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>就像 PS4 主機一樣，如果在 PS5 主機執行遊戲時切換到待命模式或開啟媒體應用程式，當您準備好重新遊玩時，遊戲將會從您離開的地方繼續進行。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>若您啟動了第二個 PS5 遊戲或完全關閉主機電源，原本在玩的第一個遊戲會自動關閉，而且不會自動從先前遊戲的進度繼續進行。然而，歸功於 PS5 主機的超高速 SSD，您將能夠迅速載回已安裝的 PS5 遊戲，直接繼續進行遊戲。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 遊戲是否有地區限制？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>沒有。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2898} -->
+<figure class="wp-block-image"><img src="https://blog.zh-hant.playstation.com/tachyon/sites/8/2020/11/9a7eaa332c946ccc9e223c5563c548c8a510155b.jpg?fit=1024%2C1024" alt="" class="wp-image-2898"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我可否從任何 PS5 主機存取我收藏的數位遊戲？如果可以，該怎麼做？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>玩家可以使用 PlayStation 帳戶登入任何主機，並在登入期間存取他們的內容。使用新版的行動裝置專用 PlayStation App 可輕易做到這一點，玩家不必使用控制器在螢幕上輸入密碼，即可透過這項應用程式登入主機。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 獎盃清單是否會與其他 PS 獎盃區別開來？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>獎盃清單會囊括 PS3、PS Vita、PS4 和 PS5 的獎盃，並從最新解鎖的開始按時間排序。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>獎盃制度最近已有其他更新，請<a href="https://blog.zh-hant.playstation.com/2020/10/07/20201007-ps5/">在此</a>參閱最新詳情。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 數位消費的退款政策是否有任何變更？如果購買 PlayStation 5 數位版主機是否會有不同？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PlayStation Store 的退款和取消政策將維持不變。數位購買政策詳見：<br><a href="https://blog.zh-hant.playstation.com/2020/10/07/20201007-ps5/">https://blog.zh-hant.playstation.com/2020/10/07/20201007-ps5/</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>第 2 分節：在 PS5 上玩 PS4 遊戲</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我可以在 PS5 上玩 PS4 遊戲嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以。4,000 多款 PS4 遊戲當中，超過 99% 可以在今年 11 月發售的 PlayStation 5 主機上遊玩 。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://support.asia.playstation.com/chttw/s/article/ans-chttw00290">在此</a>深入瞭解在 PS5 主機上遊玩 PS4 遊戲的詳細資訊。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 在 PS5 主機上遊玩，會對 PS4 遊戲帶來任何助益嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>會的。在 PS5 主機上遊玩時，特定 PS4 遊戲載入速度會變快，還可以藉助「遊戲強化」功能，提供更高或更穩定的幀率。在無限制幀率或能顯示最高 4K 動態解析度的環境下，有些遊戲的畫面可以更加逼真。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>在 PS5 主機上，PS4 遊戲可自動獲得「遊戲強化」的支援，不必再像 PS4 Pro 一樣切換開關「強化模式」功能。此外，PS4 遊戲也可以受益於一些 PS5 主機全新的使用者體驗功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>再者，如果 PS4 遊戲支援 PS4 Pro 強化功能，例如改良的圖像、更高的解析度或提升的效能和幀率，這些特點都可以在 PS5 主機的遊戲體驗中實現。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://support.asia.playstation.com/chttw/s/article/ans-chttw00290">在此</a>深入瞭解在 PS5 主機上遊玩 PS4 遊戲的詳細資訊。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機的超高速 SSD 是否有益於 PS4 或 PlayStation VR 的遊戲體驗？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>若透過 PS5 主機內建的 SSD 儲存和遊玩，PS4 和 PlayStation VR 遊戲的載入速度會變快，但不會充分發揮SSD 的新世代功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS4 遊戲可以透過 USB 硬碟來遊玩嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以。在 USB 硬碟上存放與遊玩 PS4 遊戲，是在 PS5 主機上存取 PS4 遊戲的絕佳方式，如此不必占用任何 PS5 主機內部儲存空間，就能方便存取 PS4 遊戲。我們建議藉此方法節省內部的主機儲存空間以供 PS5 遊戲使用，因為後者無法透過擴充儲存空間硬碟遊玩。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>玩家也可以完成 PS5 主機的系統偏好設定，此步驟依預設會將所有 PS4 遊戲（包括從 PlayStation Store 購買的數位內容，以及來自 Blu-ray 光碟的遊戲資料）和未來的遊戲修補程式直接安裝於所連接的 USB 硬碟。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>請注意：並非所有 USB 硬碟皆可搭配 PS5 使用。擴充儲存空間硬碟無法透過 USB 集線器使用，而 PS5 無法同時連接兩台以上的擴充儲存空間硬碟。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我是否應該使用特定類型的 USB 硬碟，來儲存要在 PS5 主機上玩的 PS4 遊戲？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>請使用 SuperSpeed USB 或更快（USB 3.0 以上）的儲存硬碟，容量為 250GB以上、8TB 以下。欲將 USB 硬碟作為擴充儲存空間使用時，請透過下列步驟將硬碟格式化為擴充儲存空間：前往 [設定] &gt; [儲存空間] &gt; [擴充儲存空間]，再選擇 [格式化為擴充儲存空間]。在 PS4 主機上作為擴充儲存空間的 USB 硬碟不需要格式化。對於儲存在硬碟上的 PS4 遊戲，具備較高速規格的裝置可能會縮短載入時間。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 在 PlayStation Store 購買的數位版 PS4 遊戲，可以透過 PS5 下載嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以。4,000 多款 PS4 遊戲當中，超過 99% 可以在今年 11 月發售的 PlayStation 5 主機上遊玩 。請參閱這份<a href="https://support.asia.playstation.com/chttw/s/article/ans-chttw00290">指南</a>瞭解更多資訊。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS4 體驗版或 Beta 試用版可以在 PS5 上遊玩嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>大多數舊版 PS4 體驗版和 Beta 試用版將無法在 PS5 上遊玩。 然而展望未來，新的體驗版和 Beta 試用版將可以在 PS5 上遊玩。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 和 PS4 是否各有專屬的遊戲版本？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>有的。PS5 遊戲經過獨特的專門設計，旨在發揮新一代主機遊戲的特有優勢，包括 DualSense 無線控制器的觸覺回饋和自適應扳機、超快載入時間、增強的視覺效果和 3D 音效。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我原有的 PS4 遊戲能否升級為 PS5 版本？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>特定 PS4 遊戲可以在 PS5 主機上升級為數位版 PS5 遊戲。使用 PS5 主機時，您可能可以選擇將光碟或數位版 PS4 遊戲升級為數位版 PS5 遊戲。視遊戲而定，這項升級可能無需額外費用，也可能需要購買，或僅適用於限定時段。此操作需要網際網路連線。更多資訊請參閱<a href="https://support.asia.playstation.com/chttw/s/article/ans-chttw00291">此處</a>。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>例如，PS4 版《Marvel’s Spider-Man: Miles Morales》和 PS4 版《Sackboy: A Big Adventure》皆可升級至 PS5 數位版本而無需額外費用。如果您擁有這些遊戲的 PS4 版本，只需在 PS5 主機上瀏覽該遊戲的內容中心（請注意：如果您購買的是實體光碟而非 PS Store 版本的 PS4 遊戲，則需要將 PS4 光碟插入 PS5 主機），即可看見可供下載的 PS5 版本。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>請注意：Blu-ray 光碟並不相容於 PS5 數位版。您原有的 PS4 Blu-ray 光碟將無法搭配 PS5 數位版主機使用，包括以兌換方式將 PS4 遊戲升級為 PS5 版本。然而您可以升級符合條件的數位版遊戲。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 如果我不將 PS4 遊戲升級為 PS5 版本，或是該款遊戲沒有 PS5 版本，我是否還可以在 PS5 主機上玩該款遊戲的 PS4 版本？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以，如果 PS4 版遊戲相容於 PS5 主機，不必升級也可以在 PS5 主機上遊玩。在 4,000 多款 PS4 遊戲當中，超過 99% 都相容於 PS5。請參閱這份<a href="https://support.asia.playstation.com/chttw/s/article/ans-chttw00291">指南</a>瞭解更多資訊。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 如果我擁有 PS5 數位版主機，是否可以升級光碟版的 PS4 遊戲呢？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>不行，您無法在主機上升級或遊玩實體版遊戲，因為 PS5 數位版主機未附 Blu-ray 光碟機。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS4 的遊戲存檔要如何傳輸到 PS5 主機？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>玩家可以透過 LAN 連接線、無線連接（WiFi）或儲存至相容的 USB 硬碟等方式，來將遊戲存檔從 PS4 主機傳輸到 PS5 主機。此外，如果您具備有效的 PS Plus 會籍，則可以使用雲端儲存空間將 PS4 遊戲存檔儲存至 PS5 主機。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我可否將 PS4 遊戲的存檔進度傳輸到相同遊戲的 PS5 版本上？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>能否在相同遊戲的 PS4 和 PS5 版之間傳輸遊戲存檔，是由開發商所做的決定，而且跨世代遊戲作品的個別情況會有所不同。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>如果《Marvel’s Spider-Man: Miles Morales》玩家決定從 PS4 升級到 PS5 版本，他們的遊戲存檔將會傳輸到新版本。《Sackboy: A Big Adventure》也預計在年底之前的更新中推出將 PS4 遊戲存檔傳輸到 PS5 的支援功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>請注意：如果玩家原本購買的是 PS4 遊戲光碟，則必須使用配備Ultra HD Blu-ray 光碟機的 PS5 主機，才能將遊戲升級至 PS5 版本並傳輸遊戲存檔。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機如何執行 PS4 遊戲的線上多人遊玩模式？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>無論您在 PS4 或 PS5 主機上玩多人模式的 PS4 遊戲（透過向下相容），您都可以在兩款主機上與其他玩家一起玩相同遊戲。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>●如果我玩的是 PS4 遊戲，我是可否與該遊戲的 PS5 版玩家好友一起玩（或者相反）？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>您可能可以與好友一起玩，具體情況視遊戲而定，但前提是遊戲開發商必須提供支援。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS4 和 PS5 玩家可以透過語音聊天溝通嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以，PS4 和 PS5 玩家（以及行動裝置專屬的新款 PlayStation App使用者）能在派對中透過語音聊天溝通。視遊戲而定，PS4 和 PS5 版本之間也可以使用遊戲內聊天功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 在 PS4 和 PS5 主機之間如何使用遊戲邀請功能？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>在支援 PS4 和 PS5 主機之間跨世代遊玩的遊戲中，玩家將可以傳送和接收遊戲邀請。PS5 主機發售之後，若您受邀加入遊戲連線區，該通知將會顯示遊戲所支援的平台。如果 PS5 遊戲沒有可用的 PS4 版本，PS4 玩家將不會收到邀請。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2900} -->
+<figure class="wp-block-image"><img src="https://blog.zh-hant.playstation.com/tachyon/sites/8/2020/11/1c6220ad1c703af9e071081f6ea1496de2fd2462.png" alt="" class="wp-image-2900"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我在 PS5 主機上還可以存取我在 PS4 PlayStation Plus 的遊戲保存庫嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以。如果 PS4 遊戲可以在 PS5 主機上遊玩，而且您仍是 PlayStation Plus 的會員，就可以將它下載到 PS5 主機上遊玩。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PlayStation Plus 會供應 PS5 遊戲嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>所有 PlayStation Plus 會員每個月仍會收到至少兩款精彩的 PS4 遊戲。<br>我們的目標是定期將 PS5 遊戲加入每月精選遊戲陣容，因此請關注我們的<a href="https://blog.zh-hant.playstation.com/">&nbsp;PS Blog</a>，查看每月 PlayStation Plus 的公告事項。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 什麼是 PlayStation Plus 精選集？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>擁有 PS5 主機的 PlayStation Plus 會員將能以兌換方式遊玩一系列定義PS4 世代的經典遊戲，例如《Batman Arkham Knight》、《Bloodborne》、《Fallout 4》、《 God of War》、《Monster Hunter: World》、《Persona 5》以及更多遊戲。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PlayStation Plus 精選集將於 11 月 12 日 PS5 主機發售日當天推出、適用地區包括：美國、日本、加拿大、墨西哥、澳洲、紐西蘭和韓國；而全球其他地區將於 11 月 19 日發售 PS5 主機時推出，包括歐洲、中東、南美、亞洲和南非。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PS Plus 精選集收錄的作品及數量可能依國家/地區而異，且 PlayStation Plus 精選集並未在中國供應。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機發售時，PlayStation Plus 精選集會收錄哪些遊戲？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PlayStation Plus 精選集是 PlayStation Plus 會員既享的 PS4 福利以外的附加優惠，而且以相同實惠的定期服務價格收費。玩家從 PlayStation Plus 精選集中兌換的任何一款遊戲，皆可保存至他們的 PlayStation Plus 有效會籍到期為止。從 PlayStation Plus 精選集兌換並在 PS5 主機上遊玩 PS4 遊戲的優點包括載入速度加快、享有更高且更穩定的幀率，而這要歸功於 PS5 的「遊戲強化」功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>SIE Worldwide Studios 作品：</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>《Bloodborne》</li><li>《Days Gone》</li><li>《Detroit: Become Human》</li><li>《God of War》</li><li>《Infamous Second Son》</li><li>《Ratchet and Clank》</li><li>《The Last Guardian》</li><li>《The Last of Us Remastered》</li><li>《Until Dawn》</li><li>《Uncharted 4: A Thief’s End》</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>我們的第三方發行商和開發商作品：</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>《Batman: Arkham Knight》</li><li>《Battlefield 1》</li><li>《Call of Duty: Black Ops III – Zombies Chronicles Edition》</li><li>《Crash Bandicoot N. Sane Trilogy》</li><li>《Fallout 4》</li><li>《Final Fantasy XV Royal Edition》</li><li>《Monster Hunter: World》</li><li>《Mortal Kombat X》</li><li>《Persona 5》</li><li>《Resident Evil 7 biohazard》</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>PS Plus 精選集收錄的作品及數量可能依國家/地區而異，且 PlayStation Plus 精選集並未在中國供應。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我可以在 PS5 上玩初代 PlayStation、PS2 或 PS3 的遊戲嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>不行，PS5 主機只可以玩 PS5 遊戲和超過 99% 的 PS4 遊戲，包括 PlayStation VR 遊戲。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2><strong>第 4 節：PS5 Blu-Ray 光碟</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機支援何種視訊光碟格式？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>配備 Blu-ray 光碟機版本的 PS5 主機支援播放的視訊格式包括：4K Ultra HD Blu-ray 光碟、標準 Blu-ray 光碟和 DVD。請注意，PS5 數位版主機不支援任何光碟。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 遊戲光碟儲存的資料量是否多於 PS4 光碟？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的。PS5 Blu-ray 光碟最多可儲存 100GB 的遊戲資料，相較之下 PS4 Blu-ray 光碟的儲存容量為 50GB。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機可以播放 PS4 Blu-ray 光碟嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以，只要是支援的 PS4 遊戲，其 Blu-ray 光碟皆可相容於 PS5 主機。請參閱這份<a href="https://support.asia.playstation.com/chttw/s/article/ans-chttw00290" target="_blank" rel="noreferrer noopener">指南</a>，深入瞭解在 PS5 主機上玩 PS4 遊戲的相關資訊。請注意，PS5 數位版主機不支援任何光碟。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 是否支援 3D Blu-ray 電影？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>否，PS5 主機不支援 3D 立體輸出格式。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2873} -->
+<figure class="wp-block-image"><img src="https://blog.zh-hant.playstation.com/tachyon/sites/8/2020/11/2c461e7316f606ee0d7ea611a375d8d1e1135f48.jpg?fit=1024%2C1024" alt="" class="wp-image-2873"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2><strong>第 5 節：PS VR、媒體控制器及其他 PS5 周邊機器</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>第 1 分節：PS VR、PS CAMERA、PS MOVE 控制器、PS VR 射擊控制器</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我可以在 PS5 主機上玩 PS VR 遊戲嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以，PS5 可以遊玩數千款 PS4 遊戲，其中就包括 PlayStation VR 遊戲。在 PS5 上玩 PS VR 遊戲，需要搭配使用 PS VR 頭戴裝置、PS4 適用的 PlayStation Camera*以及 PlayStation Camera 適配器 （無需另購，詳細資訊請見&nbsp;<a href="http://playstation.com/camera-adaptor" target="_blank" rel="noreferrer noopener">playstation.com/camera-adaptor</a>）。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>我們建議使用 DUALSHOCK4 無線控制器以獲得 PS5 上最佳的 PS VR 體驗。特定遊戲可能需要搭配使用 PlayStation Move 動態控制器，或必須相容於 PlayStation VR 射擊控制器。PS5 新款 HD 攝影機並不相容於 PS VR。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PS VR 頭戴裝置、PS Camera、DUALSHOCK 4 無線控制器、PS Move 控制器，以及 PS VR 射擊控制器皆與 PS5 分開販售。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>*型號 CUH-ZEY1 或 CUH-ZEY2</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS4 的 PS Camera 可以搭配 PS5 使用嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以。在 PS5 所支援的 PS4 遊戲中，需要使用 PS Camera 才能享受 PS VR 和 PS Move 的遊戲體驗。PS Camera 也支援 PS5 的播送功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PS Camera 需使用 PlayStation Camera 適配器才能連接 PS5（無需另購，詳細資訊請見&nbsp;<a href="http://playstation.com/camera-adaptor" target="_blank" rel="noreferrer noopener">playstation.com/camera-adaptor</a>）。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PlayStation Move 動態控制器或 PS VR 射擊控制器是否可以搭配 PS5 使用？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的，您可以透過 PS5 在支援的 PS4 遊戲中（包括 PS VR 遊戲）使用 PlayStation Move 控制器或 PS VR 射擊控制器。您必須將 PS Camera 連接至 PS5 主機，才能實現 PS Move 或 PS VR 射擊控制器的支援功能，而此連接步驟則需使用 PlayStation Camera 適配器（無需另購，詳細資訊請見&nbsp;<a href="http://playstation.com/camera-adaptor" target="_blank" rel="noreferrer noopener">playstation.com/camera-adaptor</a>）。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我要如何取得 PS Camera 適配器？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>詳細資訊請見&nbsp;<a href="http://playstation.com/camera-adaptor" target="_blank" rel="noreferrer noopener">playstation.com/camera-adaptor</a>。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2874} -->
+<figure class="wp-block-image"><img src="https://blog.zh-hant.playstation.com/tachyon/sites/8/2020/11/c1d8117242d69d623c563e0822422a4b23414502.jpg?fit=1024%2C1024" alt="" class="wp-image-2874"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3>第 2 分節：HD 攝影機</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 什麼是 HD 攝影機？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 的 HD 攝影機搭載兩具敏銳的廣角1920×1080 鏡頭，可測量空間深度，並無縫地去除播送者後的背景。PS5 的 HD 攝影機需透過主機背面的 USB Type-A 端子加以連接。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>HD 攝影機的詳細資訊請見<a href="https://www.playstation.com/zh-hant-tw/accessories/hd-camera/" target="_blank" rel="noreferrer noopener">此處</a>。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● HD 攝影機的實體尺寸和重量為何？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>尺寸約為 100mm x 41mm x 75mm（寬 x 高 x 深），重約 92g。連接線長度大約為 2 公尺。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 的新款 HD 攝影機可以搭配 PS VR 頭戴裝置使用嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>不行，新款 HD 攝影機不支援 PlayStation VR。您需要使用 PlayStation Camera 和 PlayStation Camera 適配器來連接到 PS5。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 攝影機是否內建麥克風？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>沒有，您需要使用耳機組或 DualSense 無線控制器內建的麥克風。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>第 3 分節：媒體遙控器</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 什麼是媒體遙控器？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>媒體遙控器是一項便利工具，可讓您輕鬆觀賞 PS5 上的電影和節目。此周邊機器設有熱門串流應用程式和播放控制項的專用按鈕，以及巡覽控制按鈕。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.playstation.com/zh-hant-tw/accessories/media-remote/" target="_blank" rel="noreferrer noopener">在此</a>進一步瞭解媒體遙控器。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 媒體遙控器的實體尺寸和重量為何？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>尺寸大約為 45mm x 145mm x 26mm（不含最大突出部分），重約 55g。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我可以使用媒體遙控器玩遊戲嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>不行，媒體遙控器僅可作為一項便捷工具，讓使用者輕鬆觀賞 PS5 上的影片內容。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 它是使用可替換還是可充電的電池供電？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>媒體控制器採用兩顆隨附的 AA（3 號）電池供電。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 媒體遙控器是否支援語音輸入格式？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>在系統顯示的螢幕鍵盤（或支援語音輸入模式的特定媒體應用程式）中按下麥克風圖示，即可使用媒體遙控器上的麥克風進行語音聽寫*。媒體遙控器上的實體麥克風按鈕留予日後的功能使用。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>第 4 分節：PS5 耳機組和 PS4 耳機組</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 什麼是 PULSE 3D 無線耳機組，它與前代 PlayStation 耳機組有何不同？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PULSE 3D 無線耳機組是 PS5 專用官方耳機組，設計精緻並配備雙消噪麥克風、USB Type-C 充電功能以及易於使用的控制項，包括內建麥克風靜音、主音量控制，以及遊戲內音訊對語音混音控制項。專用的麥克風監測按鈕，可讓您確認自己的聲音在隊友耳中聽來如何。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>您可以使用隨附的無線適配器，將 PULSE 3D 無線耳機組連接至 PS5 或 PS4 主機。您可以使用 3.5mm 耳機組連接端來連接其他音訊來源，例如 DUALSHOCK 無線控制器、PlayStation VR 或行動裝置。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.playstation.com/zh-hant-tw/accessories/pulse-3d-wireless-headset/" target="_blank" rel="noreferrer noopener">在此</a>進一步瞭解 PULSE 3D 無線耳機組。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PULSE 3D 無線耳機組的實體尺寸和重量為何？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>尺寸約為 213mm x 190mm x 91mm，重約 292g。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PULSE 3D 無線耳機組每充電一次可續航多久？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PULSE 3D 無線耳機組使用內建可充電電池，約可持續以無線方式運作長達 12 小時。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 官方無線耳機組（CECHYA-0090、CUHYA-0080）可否搭配 PS5 主機使用？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以，PS5 主機原生支援官方無線耳機組（CECHYA-0090、CUHYA-0080），採用隨附的無線 USB 適配器或 DualSense 無線控制器上的 3.5mm 耳機組連接端即可搭配使用。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 可否搭配使用第三方耳機組？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>官方授權第三方製造商的耳機組將在 PS5 主機發售之後公佈。部分授權用於 PS4 主機的耳機組可能可以使用，或可能需要更新裝置韌體。有關相容性的問題，請諮詢您的耳機組製造商。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>雖然 PS5 支援多數 USB 和類比耳機組，但不支援使用 Bluetooth 連接的第三方無線耳機組。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>耳機組如果可以連接至 3.5mm 連接端、USB-A 或 USB-C，則支援 3D 音效。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>第 5 分節：其他周邊支援</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機可以連接鍵盤和滑鼠嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以，系統可支援 USB 和 Bluetooth 鍵盤及滑鼠 ，但各個遊戲是否支援取決於遊戲開發商。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS4 格鬥搖桿可以搭配 PS5 使用嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>多款獲授權的 PS4 街機格鬥搖桿應該都相容於 PS5 所支援的 PS4 遊戲。有關相容性的問題，請諮詢您的格鬥搖桿製造商。https://www.youtube.com/embed/7TBPrYJDoDE?feature=oembed</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2><strong>第 6 節：PS5 使用者體驗和應用程式</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>第 1 分節：PS5 使用者體驗</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 的使用者體驗（UX）目標是什麼？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>目標是確保創造珍貴和有意義的遊戲時光。PS5 新穎的使用者體驗（UX）設計完全採用以玩家為本的理念，藉由提高即時性、加深沉浸感來提供真正次世代體驗，迅速為您連結精彩的遊戲和熱情的遊戲社群。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 相較於 PS4，PS5 的使用者介面有哪些最顯著的不同？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 新的使用者體驗設計推出了多種新功能，旨在造就更即時、沉浸且個人化的遊戲體驗。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>亮點之一在於新的「控制中心」，運作方式就像是 PS4 主機「快捷選單」的進化版。按一下 PS 按鈕即可喚出 PS5 主機的控制中心，讓您立即存取常用系統功能，而且這項操作完全不必離開遊戲。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>「行動」是另一項新功能，旨在讓您更貼近遊戲中的關鍵要素。控制中心和支援遊戲內容中心的螢幕分頁卡會顯示各項「行動」，讓您尋找新的遊戲機會、返回您錯過的事物、直接跳到您想玩的關卡或挑戰，以及更多功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>其他類型的分頁卡還包括遊戲輔助、螢幕分享等。有些分頁卡可以呈現為子母畫面或固定在旁模式，以便隨時檢視它們而無需離開遊戲。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>請觀看我們的<a href="https://youtu.be/7TBPrYJDoDE" target="_blank" rel="noreferrer noopener">導覽影片</a>，進一步瞭解 PS5 使用者體驗。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 是否會自動為玩過的遊戲下載遊戲修補程式和遊戲更新？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的。自動下載功能啟用後，若您與網際網路連線，PS5 將會自動搜尋您常玩遊戲的更新項目。如果使用者選擇的電源設定檔允許與網際網路連線，則主機在待命模式也會自動下載遊戲更新。PS5 會針對您在玩的遊戲，自動搜尋相關的遊戲更新。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 新發售的 PS5 的使用者介面是否支援資料夾或主題功能？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>否，新發售的 PS5 不支援資料夾或主題功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 的使用者體驗是否提供官方更新或消息？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的，全球所有 PS5 擁有者都會收到遊戲發行商的官方消息及近期動態，以掌握在遊戲的內容中心收藏和關注的遊戲動態，這些資訊皆以使用者的語言呈現，並顯示在控制中心和行動裝置專用的 PlayStation App 的特別分頁卡上。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>在美國新發售的 PS5 擁有者還可以瀏覽主頁畫面上的「探索」功能，在同一位置查看所有消息，無論是熱切期盼或擱置不玩的遊戲，您都能掌握最新動態。此外，「探索」功能還可讓您存取實況播送、共享影片、在您所關注遊戲社群中的流行圖像，並取得來自 PlayStation 的更新項目。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我們需要在第一天就下載系統更新嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的，PS5 最新版系統軟件將於發售當日一併推出。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 如果我不在線上，我還可以透過 USB 硬碟安裝系統更新嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以，如同 PS4 主機一樣，新的系統軟件更新項目將可從 PlayStation.com 下載到您的個人電腦，然後再使用 FAT32 或 exFAT 格式的 USB 硬碟傳輸到 PS5 主機。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 「遊戲輔助」是什麼？該如何操作？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>遊戲輔助是一種系統功能，僅供 PS Plus 會員用於 PS5，可提供實用提示、秘訣和訣竅，幫助您在 PS5 遊戲中向前邁進。這項功能純屬選擇性質，但比起上網搜尋特定秘訣來得更迅速、輕鬆，也可以避免不小心看到之後的遊戲走向。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>觀看我們的&nbsp;<a href="https://youtu.be/7TBPrYJDoDE" target="_blank" rel="noreferrer noopener">PS5 使用者體驗導覽影片</a>，瞭解遊戲輔助的運作方式。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 提供哪些協助工具選項?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 玩家將可以減低或停用 DualSense 無線控制器觸覺回饋和自適應扳機的力道，並重新配置控制器按鈕的對應功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>語音聽寫功能可讓使用者輕鬆、迅速輸入文字，效率優於虛擬鍵盤：只需念出文字，它們就會顯示在螢幕上。此功能將與耳機組、DualSense 無線控制器的內建麥克風，或者媒體遙控器搭配使用。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>整合式螢幕助讀程式提供使用者聽讀螢幕文字的選項，亦設有大聲朗讀的控制項。使用者也可以自訂顯示器的設定，來反轉顏色、放大或縮小字體、顯示粗體字、調整對比度、校正顏色、自動捲動速度，以及減少動作設定。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>此外，聊天轉文字功能可將語音聊天音訊轉為文字，亦可將書寫文字轉為朗讀，來與語音聊天中的其他玩家交談。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PS5 的語音聽寫*、螢幕助讀程式和聊天轉文字等功能支援下列語言：英文（美國）、英文（英國）、日文、德文、義大利文、法文、加拿大法文、西班牙文、拉丁美洲西班牙文。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>第 2 分節：PS Store 和數位內容</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 上的 PlayStation Store 是否有所改良？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 上的 PS Store 已完全整合至主機，能以極快速度瀏覽，其版面簡潔俐落，可讓您輕易找到正確遊戲。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我可以在 PS5 的 PS Store 購買 PS4 和 PS VR 遊戲嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以，PS5 支援的許多 PS4 和 PS VR 遊戲都可以透過 PS5 上的 PS Store 購買。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 行動裝置專用的 PlayStation App 將如何支援 PS5？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>行動裝置專用的新版 PlayStation App 經過重新設計，可同時提升 PS4 和 PS5 的遊戲體驗，包括升級的使用者介面、PS Messages整合、語音聊天和派對群組、原生整合的 PlayStation Store 和遠端下載、PlayStation 消息，以及 PS5 的新功能。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>完整的概述請見<a href="https://blog.zh-hant.playstation.com/2020/10/29/20201029-ps5/">此處</a>。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我該如何管理 PS5 的遠端下載內容？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>支援 iOS（12.2 以上） 和 Android（6.0 以上）行動裝置的新款 PlayStation App 提供原生 PlayStation Store 體驗，可讓您快速、順暢地購物和瀏覽，還能遠端購買遊戲和追加內容，並直接下載至您的 PS4 和 PS5。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PS5 上市後可讓您遠端啟動遊戲、在空間不夠時管理主機儲存空間，以及直接從 PS App 迅速登入 PS5。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>此外，您可以透過 PlayStation.com&nbsp;<a href="http://library.playstation.com/" target="_blank" rel="noreferrer noopener">遠端管理下載內容</a>。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 哪裡可以找到我所有的 PS5 和 PS4 遊戲？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>位於 PS5 主機主頁畫面的「遊戲保存庫」會顯示所有您已購買或玩過的 PS5 和 PS4 遊戲。其中包括您能夠以 PS Plus 會員身分玩的遊戲。如果上述定期服務已經過期，您需要購買新的定期服務，才能再玩那些遊戲。<br>（請注意：PS Now 服務的供應情形依國家/地區而異）。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>第 3 分節：娛樂應用程式</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 哪裡可以找到我所有的娛樂和媒體應用程式？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>從 PS5 的媒體主頁畫面，您可以輕易找到並啟動最近用過的媒體應用程式。或者，您可以在應用程式保存庫中尋找已下載但近期未使用的應用程式。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>若想嘗試新事物，可透過所有應用程式內容中心下載新的應用程式，或透過影視內容中心，在您的應用程式中（或尚未下載的新應用程式）尋找推薦節目。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>不確定哪些應用程式含有您感興趣的電影或節目嗎？全域搜尋功能可讓您找尋目標的位置，並且引導您前往該處。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 上市時提供哪些娛樂應用程式？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>熱門的娛樂應用程式如：Netflix、Apple TV +、YouTube 以及 Spotify 都會隨 PS5 發售一併提供，但供應情況可能各地區不同。更多應用程式資訊可以參閱<a href="https://blog.zh-hant.playstation.com/2020/10/22/20201022-ps5/">此處</a>。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 依各區域提供的服務而定，各國家/地區串流應用程式是否會有不同？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的，這項功能需要存取網際網路，還要有存取 PlayStation Network 的帳戶；而串流服務可能必須透過付費定期服務才能使用，且未必在所有國家或地區皆有供應。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我該如何在 PS5 上存取媒體應用程式和服務？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>您可以從 PS5 主機的主頁畫面的專屬媒體區塊中輕易存取媒體應用程式。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 娛樂應用程式是否會支援 4K 解析度和 HDR？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>如果應用程式支援這些功能的話，會的。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 用 PS5 主機玩遊戲時，我可以同時播放自己想聽的音樂嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以。 PS5 上市時將支援 Spotify，能夠播放音樂，包括當作遊戲時的背景音樂。玩家也可以透過 USB 硬碟聆聽音樂，支援 MP3、FLAC 及 AAC 等格式。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>第 4 分節：派對、好友和網路功能</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 將會改良哪些社交功能（如好友清單和派對）？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 將派對概念擴展為專屬的遊憩空間，讓您能與最多 99 名好友同樂。您可以分享遊戲內容、規劃遊玩場次、或單純透過語音聊天或文字聊天與 PS4、PS5 及行動裝置專用新款 PlayStation App 的使用者交談。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>在 PS5 上，全新升級的派對將成為迅速、便捷且支援豐富互動方式的場所。想玩幾場多人遊玩的遊戲嗎？直接與您的派對參加者一起加入對戰，無需進一步邀請即可開始。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>想在與好友聊天的同時，炫耀自己在玩些什麼嗎？在派對中展開語音聊天，即可啟用「螢幕共享」功能，這是一項低延遲技術，可即時向好友展示自己在玩的遊戲，同時也隨時關注他們的遊戲進度。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>想要分享您的遊戲體驗嗎？透過「分享遊玩」功能（需要 PlayStation Plus 會籍），您也可以讓受信任的好友控制您的遊戲，或使用此功能一起在本地端玩一場合作遊戲。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>還有一項新功能稱為「Game Base」，它將是您在 PlayStation 上的社交樞紐。Game Base 會蒐集您在 PS5、PS4 及行動裝置專用的新款 PlayStation App 上所有好友、派對、聊天對話和更多資訊，而且全部集中在一處方便且固定的位置，讓您無論在何處都能與 PlayStation 上的好友保持聯繫。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 上的派對語音聊天一次可以有幾位玩家參與？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>透過 PS4、PS5 及行動裝置專用的新款 PlayStation App，每一場語音聊天最多可以有 16 人參與。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 主機提供哪些家庭/家長監控機制？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>若您是成人且擁有存取 PlayStation Network 的帳戶，您可以為子女建立帳戶，並成為一名家庭管理員。這項操作可以在帳戶設定中的「家庭管理」部分完成。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>家庭管理員可以：</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• 管理遊玩時間。<br>• 管理使用家庭管理員錢包進行的購買。<br>• 管理遊戲、影片和應用程式的存取。<br>• 停用訊息和語音聊天功能。<br>• 封鎖其他玩家製作的影片、播送和圖片。<br>• 指定其他成年家人擔任「監護人」，讓他們可以設定及變更所有小孩家庭成員的控制項，例如從您錢包支出的允許額度。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>此外，家長監控功能允許家庭管理員為特定遊戲和媒體設置年齡限制、可遊玩時段、支出限制、與其他玩家的交流，以及使用 PlayStation VR 的情形。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我可以變更自己的線上 ID 嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以！請瀏覽<a href="https://asia.playstation.com/cht-hk/psn/account/onlineid/change/" target="_blank" rel="noreferrer noopener">此頁面</a>以瞭解詳情。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我可以自訂私隱權選項並顯示為離線嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以，您可以顯示為離線。PS5 主機的新功能還可以讓您將狀態設定為「忙碌」，藉此告知好友和其他玩家不要打擾您。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我可以將其他服務連結到 PlayStation 帳戶嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>可以。PS5 提供 Spotify、Twitch、Twitter 和 YouTube 的整合功能，您可以將帳戶連結到這些服務。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2886} -->
+<figure class="wp-block-image"><img src="https://blog.zh-hant.playstation.com/tachyon/sites/8/2020/11/4d97d746a65dc75bfe5aadd008366191b3667f2c.jpg?fit=1024%2C1024" alt="" class="wp-image-2886"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3><strong>第 5 分節：創建和分享內容</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● DualSense 無線控制器新增的「創建按鈕」如何運作？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>創建按鈕可讓玩家捕捉最精彩的遊戲瞬間。在「創建」選單中，您可以選擇儲存過去一段遊戲進度、開始手動錄製、擷取精彩螢幕截圖，或播送遊戲實況。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>此外，玩家最常變更的控制項（錄影解析度、螢幕截圖格式、錄製內容是否包含語音聊天音訊）無需離開遊戲即可輕易操作。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 可以擷取多長的影像時間？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>PS5 會自動擷取過去 60 分鐘的遊戲實況。若要儲存影片，請按下創建按鈕並選擇「儲存最近的遊戲過程」，並在此步驟選擇要記錄的遊玩過程長度，最短可以擷取過去的 15 秒、最長以過去的 60 分鐘為限。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PS5 會自動以 1080p 的解析度記錄您過去 60 分鐘的遊戲實況。如果使用創建按鈕手動錄製遊戲實況，也可以錄製 4K 解析度的影片。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 系統會以什麼解析度來記錄影片內容？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>依據預設，錄製的影片會以 1080p 和最高每秒 60 幀儲存。如果使用創建按鈕手動錄製，也可以錄製 4K 影片。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>當 PS5 主機連接到 4K 電視機，創建選單就會顯示「手動錄影解析度」設定功能。玩家可以選擇 1920×1080（預設）或 3840×2160 的解析度。設定值會維持到您或您主機上的其他玩家對其進行變更，或將主機連接到非 4 K 電視機為止。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我擷取的螢幕截圖和影片內容會儲存在 PS5 的哪裡？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>擷取的螢幕截圖和影片會儲存在 PS5 的媒體相簿中。媒體相簿可從遊戲主頁畫面存取，以供使用者檢視、編輯、分享、複製到 USB 硬碟，以及從 USB 媒體播放。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我該如何將 PS5 主機上錄製的影片和圖像儲存到其他裝置？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>玩家可以選擇圖像和影片，並將它們複製到外接 USB 硬碟。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 有哪些選項可讓我輸出所擷取的影片？我是否可從 PS5 主機將 4K 影片串流或匯出到外部服務？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>1080p 和 4K 影片都可以分享到外部服務，但視所分享的平台而定，輸出的解析度可能會降低。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我在 PS5 上可以用什麼格式和解析度來擷取螢幕截圖？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>您可以使用 1920×1080 或 3840×2160 解析度的 JPEG 或 PNG 格式來儲存螢幕截圖。如果 PS5 連接到 HDR 顯示器，則玩家也可以擷取（並檢視）HDR 螢幕截圖。在匯出或分享 HDR 螢幕截圖時，PS5 會將它們轉為標準 JPEG 圖像。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 發售時，我可以將內容分享到哪裡？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>在 PS5 主機或行動裝置專用的 PlayStation App 上，玩家可以在派對中與好友分享螢幕截圖及影片片段（最長 3 分鐘）。玩家也可以分享到外部服務，包括 Twitch、Twitter 和 YouTube。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我是否可以將分享的內容傳輸到行動裝置專用的新款 PlayStation App，以便透過行動裝置分享？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>玩家可在派對中透過 Game Base 分享圖像和影片，就能在行動裝置專用的新款 PlayStation App 上檢視這些內容。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 是否提供擷取裝置的支援功能？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>是的。在設定選單中停用 HDCP 之後，PS5 就可以使用外接 HDMI 擷取裝置。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 相較於 PS4 主機上的 Share Factory，PS5 主機上的 Share Factory Studio 有何改良之處？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Share Factory Studio 是一款適用於 PS5 主機的強大媒體編輯工具。這款應用程式提供一組更為強效可靠的編輯功能，擷取遊戲內容的效果遠勝於基本的快速編輯功能。PS5 上的 Share Factory Studio 提供新的工具組和許多新功能，例如可以支援 4K HDR 影片。立即創作精彩的視覺效果與他人分享吧！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 什麼是「螢幕共享」和「分享遊玩」？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>螢幕共享是 PS5 的新功能。螢幕共享可讓使用者即時向語音聊天中最多 16 名派對成員播送遊戲畫面。可將其想像成好友之間的小型遊戲實況播送場次。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>使用螢幕共享的同時，玩家也可以使用分享遊玩（需要有效的 PlayStation Plus 定期服務），將「虛擬控制器」傳遞給另一名語音聊天的參與者，這位聊天參與者將可從遠端玩這款遊戲最多 1 小時，派對成員則繼續觀看和聊天。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>分享遊玩功能允許最多兩名玩家一起遊玩本地端協力遊戲，即使其他玩家沒有購買此遊戲，也可一同遊玩。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 我可以將擷取的媒體（遊戲片段、螢幕截圖）從 PS4 傳輸到 PS5 嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>不行，但是您可以透過內建的擷取畫面相簿應用程式，將它們從 PS4 主機匯出到相容的 USB 硬碟予以保存。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>第 6 分節：其他問題</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 一台 PS5 可讓幾位使用者登入？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>一台 PS5 最多接受 16 名使用者註冊，一次最多可讓 4 名使用者同時登入。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 是否配備網頁瀏覽器？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>否，PS5 主機並未配備專屬的網路瀏覽器應用程式。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 上的遙控遊玩功能如何運作？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>透過遙控遊玩功能，玩家將能從電腦或行動裝置存取 PS5，方式就與 PS4 一樣。透過 PS5 的遙控遊玩，您也可以從 PS4 主機或其他 PS5 存取您的 PS5。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● PS5 推出後，遙控遊玩功能有任何其他變更嗎？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":2885} -->
+<figure class="wp-block-image"><img src="https://blog.zh-hant.playstation.com/tachyon/sites/8/2020/11/3f05f03107cf0d5ef3b386681404286289755986.png?fit=1024%2C770" alt="" class="wp-image-2885"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>我們正在更新 PS4 的遙控遊玩功能。現在，您不僅能從電腦或行動裝置存取 PS4，也可以用 PS4 直接透過電視上的遙控遊玩畫面來存取其他主機。這項功能還可讓您連接至 PS5 主機，並將 PS5 遊戲串流到 PS4 遊玩。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>此外，遙控遊玩將新增多人遊戲的支援功能，最多可讓三名額外使用者加入遙控遊玩連線區，以便使用者透過遙控遊玩享受本地端多人遊玩的遊戲體驗。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>● 這份文件並未回答我的問題。我該如何尋求解答？</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>我們會持續更新這則貼文，敬請在下方留言發問，並持續關注文件更新！</p>
+<!-- /wp:paragraph -->

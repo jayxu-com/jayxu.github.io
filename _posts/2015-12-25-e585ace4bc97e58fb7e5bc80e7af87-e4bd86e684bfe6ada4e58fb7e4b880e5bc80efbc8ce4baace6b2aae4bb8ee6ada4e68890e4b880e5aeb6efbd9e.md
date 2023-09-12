@@ -9,12 +9,12 @@ permalink: /2015/12/25/14418
 posturl_add_url:
     - 'yes'
 views:
-    - '3024'
+    - '3264'
 dsq_thread_id:
     - '4433024300'
 duoshuo_thread_id:
     - '6.3356051611881E+18'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2015/12/201502130907531324.jpg'
+image: /log/wp-content/uploads/2015/12/201502130907531324.jpg
 ---
 
 <p class="p1"><span class="s1">其实想写“吴言片语”这样一个系列的文字已经很久了，至少有10年。10年啊，我的确是个拖延癌晚期的P型人啊……</span></p>

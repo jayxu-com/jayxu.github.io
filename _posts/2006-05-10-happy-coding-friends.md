@@ -12,14 +12,14 @@ aktt_notify_twitter:
 dsq_thread_id:
     - '4271232709'
 views:
-    - '3894'
+    - '4082'
 shorturl:
     - 'http://goo.gl/0bwTm'
 duoshuo_thread_id:
     - '6.3356037752349E+18'
 posturl_add_url:
     - 'yes'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2006/05/nazca.jpg'
+image: /log/wp-content/uploads/2006/05/nazca.jpg
 ---
 
 <a href="http://www.jayxu.com/log/wp-content/uploads/2006/05/nazca.jpg"><img src="http://www.jayxu.com/log/wp-content/uploads/2006/05/nazca-600x307.jpg" alt="nazca" width="600" height="307" class="alignnone size-medium wp-image-15017" /></a>

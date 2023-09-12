@@ -9,12 +9,12 @@ permalink: /2005/01/02/15411
 posturl_add_url:
     - 'yes'
 views:
-    - '1864'
+    - '2016'
 dsq_thread_id:
     - '4929040456'
 duoshuo_thread_id:
     - '6.3356053011563E+18'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2005/01/gn738Px8G5rOztDcAAAAAElFTkSuQmCC.png'
+image: /log/wp-content/uploads/2005/01/gn738Px8G5rOztDcAAAAAElFTkSuQmCC.png
 ---
 
 <a href="https://www.jayxu.com/log/wp-content/uploads/2005/01/gn738Px8G5rOztDcAAAAAElFTkSuQmCC.png"><img class="alignnone size-full wp-image-15413" src="https://www.jayxu.com/log/wp-content/uploads/2005/01/gn738Px8G5rOztDcAAAAAElFTkSuQmCC.png" alt="gn738Px8G5rOz+tDcAAAAAElFTkSuQmCC" width="240" height="165" /></a>

@@ -10,7 +10,7 @@ aktt_notify_twitter:
     - 'yes'
     - 'yes'
 views:
-    - '4154'
+    - '4348'
 shorturl:
     - 'http://goo.gl/cUkEw'
 duoshuo_thread_id:
@@ -23,7 +23,7 @@ hefo_after:
     - '0'
 dsq_thread_id:
     - '4963942918'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2008/06/nl-knvb.gif'
+image: /log/wp-content/uploads/2008/06/nl-knvb.gif
 ---
 
 又是一个不眠夜

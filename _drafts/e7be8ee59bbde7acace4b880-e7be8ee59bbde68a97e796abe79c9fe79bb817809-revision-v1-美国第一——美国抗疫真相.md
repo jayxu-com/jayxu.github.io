@@ -1,0 +1,17 @@
+---
+id: 17813
+title: '“美国第一”?!——美国抗疫真相'
+date: '2021-08-10T16:24:20+08:00'
+author: Jay
+layout: revision
+guid: 'https://www.jayxu.com/?p=17813'
+permalink: '/?p=17813'
+---
+
+<!-- wp:heading -->
+<h2><strong>“America Ranked First”?! The Truth about America’s fight against COVID-19</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:algori-pdf-viewer/block-algori-pdf-viewer {"url":"https://www.jayxu.com/log/wp-content/uploads/2021/08/美国第一？美国抗疫真相（中英文版-）.pdf","height":900,"id":17810} -->
+<div class="wp-block-algori-pdf-viewer-block-algori-pdf-viewer"><iframe class="wp-block-algori-pdf-viewer-block-algori-pdf-viewer-iframe" src="https://www.jayxu.com/wp-content/plugins/algori-pdf-viewer/dist/web/viewer.html?file=https%3A%2F%2Fwww.jayxu.com%2Flog%2Fwp-content%2Fuploads%2F2021%2F08%2F%E7%BE%8E%E5%9B%BD%E7%AC%AC%E4%B8%80%EF%BC%9F%E7%BE%8E%E5%9B%BD%E6%8A%97%E7%96%AB%E7%9C%9F%E7%9B%B8%EF%BC%88%E4%B8%AD%E8%8B%B1%E6%96%87%E7%89%88-%EF%BC%89.pdf" style="width:600px;height:900px"></iframe></div>
+<!-- /wp:algori-pdf-viewer/block-algori-pdf-viewer -->

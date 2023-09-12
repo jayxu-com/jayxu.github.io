@@ -13,10 +13,10 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '4634'
+    - '4823'
 dsq_thread_id:
     - '5338290348'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2016/11/xheritier-maven2.png'
+image: /log/wp-content/uploads/2016/11/xheritier-maven2.png
 ---
 
 <!-- wp:enlighter/codeblock {"language":"xml"} -->

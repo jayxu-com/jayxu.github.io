@@ -16,7 +16,7 @@ bot_views:
     - '1'
     - '1'
 views:
-    - '3551'
+    - '3736'
 shorturl:
     - 'http://goo.gl/9F8kQ'
 duoshuo_thread_id:

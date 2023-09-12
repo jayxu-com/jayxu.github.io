@@ -13,10 +13,10 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '4119'
+    - '4495'
 dsq_thread_id:
     - '5292886265'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2016/11/TLS-600x400.png'
+image: /log/wp-content/uploads/2016/11/TLS-600x400.png
 ---
 
 Orig. from <a href="https://blog.cloudflare.com/tls-nonce-nse/" target="_blank">Cloudflare</a>

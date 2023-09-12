@@ -13,8 +13,8 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '609'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2021/02/彼岸花叶间的决斗.png'
+    - '872'
+image: /log/wp-content/uploads/2021/02/彼岸花叶间的决斗.png
 ---
 
 <!-- wp:embed {"url":"https://v.youku.com/v_show/id_XNTExMjA3MzAyMA==.html","type":"rich","providerNameSlug":"嵌入处理程序","className":""} -->

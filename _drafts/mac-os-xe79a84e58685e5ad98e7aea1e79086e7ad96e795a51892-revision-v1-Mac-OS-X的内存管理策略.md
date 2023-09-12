@@ -1,0 +1,53 @@
+---
+id: 17436
+title: 'Mac OS X的内存管理策略'
+date: '2021-03-09T01:34:01+08:00'
+author: Jay
+layout: revision
+guid: 'https://www.jayxu.com/?p=17436'
+permalink: '/?p=17436'
+---
+
+参考了apple的<a href="http://developer.apple.com/library/mac/#documentation/Performance/Conceptual/ManagingMemory/Articles/AboutMemory.html" target="_blank" rel="noopener">这篇</a>官方文档。下面是我看了之后的理解，欢迎大家拍砖
+
+先是有关三种内存空间的定义：
+<ul>
+<blockquote>
+	<li>The active list contains pages that are currently mapped into memory and have been recently accessed.</li>
+	<li>The inactive list contains pages that are currently resident in physical memory but have not been accessed recently. These pages contain valid data but may be released from memory at any time.</li>
+	<li>The free list contains pages of physical memory that are not associated with any address space of VM object. These pages are available for immediate use by any process that needs them.</li>
+</blockquote>
+</ul>
+然后是内核页换出策略：
+<blockquote>
+<h3>Paging Virtual Memory Out</h3>
+The kernel continuously compares the number of physical pages in the free list against a threshold value. <span style="color: #ff0000;">When the number of pages in the free list dips below this threshold, the kernel reclaims physical pages for the free list by swapping inactive pages out of memory</span>. To do this, the kernel iterates all resident pages in the active and inactive lists, performing the following steps:
+<ol>
+	<li> If a page in the active list is not recently touched, <span style="color: #ff0000;">it is moved to the inactive list</span>.</li>
+	<li>If a page in the inactive list is not recently touched, the kernel finds the page’s VM object.</li>
+	<li>If the VM object has never been paged before, the kernel calls an initialization routine that creates and assigns a default pager object.</li>
+	<li>The VM object’s default pager attempts to write the page out to the backing store.</li>
+	<li>If the pager succeeds, the kernel <span style="color: #ff0000;">frees the physical memory occupied by the page and moves the page from the inactive to the free list</span>.</li>
+</ol>
+</blockquote>
+即：当free内存小于一个阈值时内核将做页交换，将active内存中最近未使用的内存移入inactive，将inactive中最近未使用的vo交换出去，并释放内存给free
+
+最后是mac下malloc的实质：
+<blockquote>
+<h3>Allocating and Accessing Virtual Memory</h3>
+Applications usually allocate memory using the malloc routine. This routine finds free space on an existing page or allocates new pages using vm_allocate to create space for the new memory block. Through the vm_allocate routine, the kernel performs a series of initialization steps:
+<ol>
+	<li>It maps a range of memory in the virtual address space of this process by creating a map entry; the map entry is a simple structure that defines the starting and ending addresses of the region.</li>
+	<li>The range of memory is backed by the default pager.</li>
+	<li>The kernel creates and initializes a VM object, associating it with the map entry.</li>
+</ol>
+At this point there are no pages resident in physical memory and no pages in the backing store. Everything is mapped virtually within the system. <span style="color: #ff0000;">When a program accesses the region, by reading or writing to a specific address in it</span>, a fault occurs because that address has not been mapped to physical memory. The kernel also recognizes that the VM object has no backing store for the page on which this address occurs. The kernel then performs the following steps for each page fault:
+<ol>
+	<li><span style="color: #ff0000;">It acquires a page from the free list and fills it with zeroes</span>.</li>
+	<li>It inserts a reference to this page in the VM object’s list of resident pages.</li>
+	<li>It maps the virtual page to the physical page by filling in a data structure called the pmap. The pmap contains the page table used by the processor (or by a separate memory management unit) to map a given virtual address to the actual hardware address.</li>
+</ol>
+</blockquote>
+首先是lazy加载，即调用malloc后只创建vo及其映射，并未真正分配内存。当首次对该vo进行读或写操作时，内核开始分配内存，即从free内存中申请页并清零，并将此页地址记入vo的常驻页中，随后将虚拟地址和物理地址通过pmap结构映射
+
+最终的结论就是：mac系统中的可用内存大小是free + 部分inactive + 部分active，其中“部分inactive”和“部分active”都指“最近未使用的那部分”。而至于“最近使用”的部分应该隐含了两层意义：一、正在被某进程使用；二、之前使用该片内存页的进程已退出，但可能在被降级（active -&gt; inactive，inactive -&gt; free）之前该程序又启动新的进程，重复使用之前的内存页

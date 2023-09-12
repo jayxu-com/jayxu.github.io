@@ -7,7 +7,7 @@ layout: post
 guid: 'http://www.jayxu.com/?p=12951'
 permalink: /2011/10/28/12951
 views:
-    - '4252'
+    - '4439'
 shorturl:
     - 'http://goo.gl/Fujf0'
 duoshuo_thread_id:

@@ -13,10 +13,10 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '4229'
+    - '4409'
 dsq_thread_id:
     - '5284949192'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2016/11/022208-7303.png'
+image: /log/wp-content/uploads/2016/11/022208-7303.png
 ---
 
 原文转自：<a href="https://isux.tencent.com/touchbar_guideline.html" target="_blank">腾讯ISUX</a>

@@ -7,7 +7,7 @@ layout: post
 guid: 'http://ijay.net.cn/log/2008/03/11/295/'
 permalink: /2008/03/11/295
 views:
-    - '3934'
+    - '4129'
 aktt_notify_twitter:
     - 'yes'
 shorturl:
@@ -22,7 +22,7 @@ hefo_before:
     - '0'
 hefo_after:
     - '0'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2008/03/lou_1.png'
+image: /log/wp-content/uploads/2008/03/lou_1.png
 ---
 
 <!-- wp:paragraph -->

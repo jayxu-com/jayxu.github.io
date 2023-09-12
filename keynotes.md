@@ -12,7 +12,7 @@ dsq_thread_id:
     - '4284715441'
     - '4284715441'
 views:
-    - '6740'
+    - '7537'
 shorturl:
     - 'http://goo.gl/rWrTI'
 posturl_add_url:

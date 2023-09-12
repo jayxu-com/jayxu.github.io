@@ -1,0 +1,34 @@
+---
+id: 14264
+title: 'Jay&#8217;s 32nd Birthday'
+date: '2015-11-03T19:06:16+08:00'
+author: Jay
+layout: post
+guid: 'http://www.jayxu.com/?p=14264'
+permalink: /2015/11/03/14264
+posturl_add_url:
+    - 'yes'
+views:
+    - '2730'
+dsq_thread_id:
+    - '4285499277'
+duoshuo_thread_id:
+    - '6.3356051243789E+18'
+hefo_before:
+    - '0'
+hefo_after:
+    - '0'
+image: /log/wp-content/uploads/2015/11/2015-10-21-20.08.20.jpg
+---
+
+<!-- wp:paragraph -->
+<p>又老了一岁，又是一个大大的surprise。满满一本的回忆和感动，略催泪～小伙伴们费心了，我爱你们！</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:jetpack/tiled-gallery {"columnWidths":[["48.98735","51.01265"],["50.00000","50.00000"],["60.99753","39.00247"]],"ids":[14268,14269,14270,14272,14273,14274,14275,14276,14277]} -->
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:48.98735%"><figure class="tiled-gallery__item"><img alt="" data-height="3840" data-id="14268" data-link="https://www.jayxu.com/2015/11/03/14264/2015-10-21-20-06-24" data-url="https://www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.06.24-800x1422.jpg" data-width="2160" src="https://i0.wp.com/www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.06.24-800x1422.jpg?ssl=1" data-amp-layout="responsive"/></figure></div><div class="tiled-gallery__col" style="flex-basis:51.01265%"><figure class="tiled-gallery__item"><img alt="" data-height="2160" data-id="14269" data-link="https://www.jayxu.com/2015/11/03/14264/2015-10-21-20-08-20" data-url="https://www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.08.20-800x450.jpg" data-width="3840" src="https://i0.wp.com/www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.08.20-800x450.jpg?ssl=1" data-amp-layout="responsive"/></figure><figure class="tiled-gallery__item"><img alt="" data-height="2160" data-id="14270" data-link="https://www.jayxu.com/2015/11/03/14264/2015-10-21-20-09-01" data-url="https://www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.09.01-800x450.jpg" data-width="3840" src="https://i0.wp.com/www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.09.01-800x450.jpg?ssl=1" data-amp-layout="responsive"/></figure><figure class="tiled-gallery__item"><img alt="" data-height="2160" data-id="14272" data-link="https://www.jayxu.com/2015/11/03/14264/2015-10-21-20-09-58" data-url="https://www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.09.58-800x450.jpg" data-width="3840" src="https://i2.wp.com/www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.09.58-800x450.jpg?ssl=1" data-amp-layout="responsive"/></figure></div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:50.00000%"><figure class="tiled-gallery__item"><img alt="" data-height="2160" data-id="14273" data-link="https://www.jayxu.com/2015/11/03/14264/2015-10-21-20-16-38" data-url="https://www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.16.38-800x450.jpg" data-width="3840" src="https://i0.wp.com/www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.16.38-800x450.jpg?ssl=1" data-amp-layout="responsive"/></figure></div><div class="tiled-gallery__col" style="flex-basis:50.00000%"><figure class="tiled-gallery__item"><img alt="" data-height="2160" data-id="14274" data-link="https://www.jayxu.com/2015/11/03/14264/2015-10-21-20-16-47" data-url="https://www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.16.47-800x450.jpg" data-width="3840" src="https://i1.wp.com/www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.16.47-800x450.jpg?ssl=1" data-amp-layout="responsive"/></figure></div></div><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:60.99753%"><figure class="tiled-gallery__item"><img alt="" data-height="2160" data-id="14275" data-link="https://www.jayxu.com/2015/11/03/14264/2015-10-21-20-16-53" data-url="https://www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.16.53-800x450.jpg" data-width="3840" src="https://i1.wp.com/www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.16.53-800x450.jpg?ssl=1" data-amp-layout="responsive"/></figure><figure class="tiled-gallery__item"><img alt="" data-height="2160" data-id="14276" data-link="https://www.jayxu.com/2015/11/03/14264/2015-10-21-20-17-01" data-url="https://www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.17.01-800x450.jpg" data-width="3840" src="https://i0.wp.com/www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.17.01-800x450.jpg?ssl=1" data-amp-layout="responsive"/></figure></div><div class="tiled-gallery__col" style="flex-basis:39.00247%"><figure class="tiled-gallery__item"><img alt="" data-height="3840" data-id="14277" data-link="https://www.jayxu.com/2015/11/03/14264/2015-10-21-20-17-22" data-url="https://www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.17.22-800x1422.jpg" data-width="2160" src="https://i0.wp.com/www.jayxu.com/log/wp-content/uploads/2015/11/2015-10-21-20.17.22-800x1422.jpg?ssl=1" data-amp-layout="responsive"/></figure></div></div></div></div>
+<!-- /wp:jetpack/tiled-gallery -->
+
+<!-- wp:video -->
+<figure class="wp-block-video"><video controls src="/video/Jay%2032th%20birthday.mp4"></video></figure>
+<!-- /wp:video -->

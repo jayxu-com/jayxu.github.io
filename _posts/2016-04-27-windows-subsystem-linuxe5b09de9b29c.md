@@ -9,12 +9,12 @@ permalink: /2016/04/27/14916
 posturl_add_url:
     - 'yes'
 views:
-    - '4433'
+    - '4715'
 dsq_thread_id:
     - '4780248267'
 duoshuo_thread_id:
     - '6.335605270886E+18'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2016/04/73868-20160408011440015-662314838.jpg'
+image: /log/wp-content/uploads/2016/04/73868-20160408011440015-662314838.jpg
 ---
 
 今天试了下Windows 10从14316预览版本开始加入的WSL下的bash环境，<a href="http://www.cnblogs.com/lazio10000/p/5366350.html" target="_blank">这里</a>有一篇简单的介绍和启用方式

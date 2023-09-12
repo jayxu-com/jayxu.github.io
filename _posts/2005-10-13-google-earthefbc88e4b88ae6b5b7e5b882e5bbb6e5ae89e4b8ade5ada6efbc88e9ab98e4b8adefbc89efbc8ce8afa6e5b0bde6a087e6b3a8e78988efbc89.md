@@ -14,7 +14,7 @@ follow5:
 dsq_thread_id:
     - '4271295013'
 views:
-    - '3941'
+    - '4146'
 shorturl:
     - 'http://goo.gl/xFQvW'
 duoshuo_thread_id:

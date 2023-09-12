@@ -13,10 +13,14 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '687'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2021/03/image.png'
+    - '891'
+image: /log/wp-content/uploads/2021/03/image.png
 ---
 
-<!-- wp:nextgenthemes/arve-block {"url":"https://v.youku.com/v_show/id_XNTExNzY3MTg4NA==.html","title":"","description":"","align":"","aspect_ratio":"16:9","sandbox":true} /-->
+<!-- wp:html -->
+<iframe height=400 width=600 src='https://player.youku.com/embed/XNTExNzY3MTg4NA==' frameborder=0 'allowfullscreen'></iframe>
+<!-- /wp:html -->
 
-<!-- wp:nextgenthemes/arve-block {"url":"https://v.youku.com/v_show/id_XNTExNzY3MjYwMA==.html","aspect_ratio":"16:9"} /-->
+<!-- wp:code -->
+<iframe height=400 width=600 src='https://player.youku.com/embed/XNTExNzY3MjYwMA==' frameborder=0 'allowfullscreen'></iframe>
+<!-- /wp:code -->

@@ -9,7 +9,7 @@ permalink: /2009/09/09/1752
 dsq_thread_id:
     - '4271360881'
 views:
-    - '4240'
+    - '4517'
 aktt_notify_twitter:
     - 'yes'
 shorturl:

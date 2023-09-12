@@ -1,0 +1,12 @@
+---
+id: 17894
+title: '“Busy” Life'
+date: '2021-12-06T13:35:25+08:00'
+author: Jay
+layout: revision
+guid: 'https://www.jayxu.com/?p=17894'
+permalink: '/?p=17894'
+---
+
+<div>到了美国才真正体会到互联网的发展给生活带来的便利，或者换句话说，我的生活还真离不开Internet。在这里套一句俗话来发个感慨：“我热爱我的事业”。</div>
+<div>为了和国内的朋友联系，在旅馆里的时候小白上除了原先必开的MSN和QQ外，还增加了移动的飞信（用来和国内发短信）和Skype（为了可以随时逮人聊音频），再加上下载的BT，电驴，迅雷，整个桌面可以算是Internet服务的超级终端了，在这里附图一张，顺便感谢Ethernet，感谢TCP/IP，感谢Internet，感谢802.11x，感谢P2P，感谢……</div>

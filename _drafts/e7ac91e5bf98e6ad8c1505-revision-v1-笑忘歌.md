@@ -1,0 +1,17 @@
+---
+id: 18239
+title: 笑忘歌
+date: '2023-01-19T22:12:33+08:00'
+author: Jay
+layout: revision
+guid: 'https://www.jayxu.com/?p=18239'
+permalink: '/?p=18239'
+---
+
+<!-- wp:video -->
+<figure class="wp-block-video"><video controls src="http://www.tudou.com/v/zuHNr7ZgpCQ"></video></figure>
+<!-- /wp:video -->
+
+<!-- wp:verse -->
+<pre class="wp-block-verse">屋顶的天空是我们的<br>放学后夕阳也都会是我们的<br>不会再让步更多了<br>唱一首属于我们的歌<br>让我们的伤都慢慢慢的愈合<br>明天我又会是全新的 OH~HO<br>青春是手牵手坐上了<br>都不回头的火车<br>总有一天我们都老了<br>不会遗憾就OK了<br>伤心的都忘记了<br>只记得这首笑忘歌<br>那一片天空很高风很清澈<br>从头到脚趾都快乐<br>我和你都约好了<br>要再唱这首笑忘歌<br>这一生只愿只要平凡快乐<br>谁说这样不伟大呢<br>自己和自己打一架了<br>想都想不通反正就是这样了<br>不会再流泪更多了<br>有多少错误重蹈覆辙<br>有多少苦痛还不是都过来了<br>想起来甚至还会笑呢 OH~HO<br>青春是人生的实验课<br>错也错得很值得<br>就算某天唱起这首歌<br>眼眶会有一点湿了</pre>
+<!-- /wp:verse -->

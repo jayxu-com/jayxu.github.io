@@ -13,12 +13,12 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '2754'
+    - '2972'
 duoshuo_thread_id:
     - '6348273092292248322'
 dsq_thread_id:
     - '5272215326'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2016/11/30592288992_d8d1f9acda_z.jpg'
+image: /log/wp-content/uploads/2016/11/30592288992_d8d1f9acda_z.jpg
 ---
 
 <!-- wp:paragraph -->

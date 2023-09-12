@@ -9,7 +9,7 @@ permalink: /2011/07/21/11337
 aktt_notify_twitter:
     - 'yes'
 views:
-    - '6454'
+    - '6737'
 aktt_tweeted:
     - '1'
 shorturl:
@@ -20,7 +20,7 @@ duoshuo_thread_id:
     - '6.3356048243394E+18'
 dsq_thread_id:
     - '4271400429'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2011/07/App-Store.png'
+image: /log/wp-content/uploads/2011/07/App-Store.png
 ---
 
 <a href="http://www.jayxu.com/log/wp-content/uploads/2011/07/App-Store.png"><img  title="App Store" src="http://www.jayxu.com/log/wp-content/uploads/2011/07/App-Store.png" alt="" width="600"  /></a>

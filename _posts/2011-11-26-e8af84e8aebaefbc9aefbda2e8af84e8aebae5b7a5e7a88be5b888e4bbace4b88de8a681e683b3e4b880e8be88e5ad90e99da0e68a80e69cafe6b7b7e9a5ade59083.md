@@ -7,7 +7,7 @@ layout: post
 guid: 'http://www.jayxu.com/?p=13093'
 permalink: /2011/11/26/13093
 views:
-    - '4782'
+    - '4980'
 duoshuo_thread_id:
     - '6.3356049088127E+18'
 dsq_thread_id:
