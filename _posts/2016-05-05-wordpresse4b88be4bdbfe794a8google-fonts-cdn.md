@@ -9,12 +9,12 @@ permalink: /2016/05/05/14961
 posturl_add_url:
     - 'yes'
 views:
-    - '3441'
+    - '3668'
 dsq_thread_id:
     - '4802110305'
 duoshuo_thread_id:
     - '6.3356052711418E+18'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2016/05/u2252188009881490895fm21gp0.jpg'
+image: /log/wp-content/uploads/2016/05/u2252188009881490895fm21gp0.jpg
 ---
 
 由于众所周知的原因，google所有的应用、服务在国内无法使用，包括google fonts。如果你的wordpress（默认）使用了google fonts，那对于新访用户带来的延迟不言而喻。今天下班后打算解决这个问题，在网上转了一圈之后，发现大多数的搜索结果都建议使用<a href="http://libs.useso.com" target="_blank">360的CDN</a>，在这件事情上360的确是个活雷锋。但是，如果你的站点和我的一样默认使用https协议，那很不幸，这个CDN无法使用，原因是<a href="https://libs.useso.com" target="_blank">https://libs.useso.com</a>使用了非安全的https协议：

@@ -13,12 +13,12 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '2583'
+    - '2804'
 duoshuo_thread_id:
     - '6.3356054414893E+18'
 dsq_thread_id:
     - '5496365098'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2016/08/TED__Ideas_worth_spreading.png'
+image: /log/wp-content/uploads/2016/08/TED__Ideas_worth_spreading.png
 ---
 
 [ted id=2573 lang=en]

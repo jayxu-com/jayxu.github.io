@@ -9,7 +9,7 @@ permalink: /2011/10/09/11765
 aktt_notify_twitter:
     - 'yes'
 views:
-    - '4300'
+    - '4506'
 aktt_tweeted:
     - '1'
 shorturl:
@@ -24,7 +24,7 @@ hefo_before:
     - '0'
 hefo_after:
     - '0'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2011/10/jobs.jpg'
+image: /log/wp-content/uploads/2011/10/jobs.jpg
 ---
 
 <!-- wp:paragraph -->

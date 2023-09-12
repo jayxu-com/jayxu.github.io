@@ -9,12 +9,12 @@ permalink: /2016/03/11/14630
 posturl_add_url:
     - 'yes'
 views:
-    - '15207'
+    - '16567'
 dsq_thread_id:
     - '4652914695'
 duoshuo_thread_id:
     - '6.335605238334E+18'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2016/03/cup.jpg'
+image: /log/wp-content/uploads/2016/03/cup.jpg
 ---
 
 原文转自<a href="https://brokensecrets.com/2010/02/05/starbucks-drink-id-codes/" target="_blank">Starbucks Drink ID Codes</a>

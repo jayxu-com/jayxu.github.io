@@ -9,12 +9,12 @@ permalink: /2021/05/23/17621
 posturl_add_url:
     - 'yes'
 views:
-    - '820'
+    - '1236'
 hefo_before:
     - '0'
 hefo_after:
     - '0'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2021/05/800.jpg'
+image: /log/wp-content/uploads/2021/05/800.jpg
 ---
 
 <!-- wp:image {"id":17622,"sizeSlug":"large","linkDestination":"attachment"} -->

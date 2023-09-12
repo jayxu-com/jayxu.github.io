@@ -13,8 +13,8 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '2862'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2017/09/fake-kernel-panic.jpg'
+    - '3161'
+image: /log/wp-content/uploads/2017/09/fake-kernel-panic.jpg
 ---
 
 <!-- wp:image {"id":16460} -->

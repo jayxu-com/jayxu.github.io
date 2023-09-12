@@ -11,7 +11,7 @@ aktt_notify_twitter:
 dsq_thread_id:
     - '4271398475'
 views:
-    - '10070'
+    - '11004'
 shorturl:
     - 'http://goo.gl/49tXH'
 duoshuo_thread_id:
@@ -26,8 +26,8 @@ hefo_after:
     - '0'
 ---
 
-<!-- wp:embed {"url":"http://www.jayxu.com/2011/01/27/10474","type":"wp-embed","providerNameSlug":"程序员的信仰","className":""} -->
+<!-- wp:embed {"url":"https://www.jayxu.com/digital-legacy","type":"wp-embed","providerNameSlug":"程序员的信仰"} -->
 <figure class="wp-block-embed is-type-wp-embed is-provider-程序员的信仰 wp-block-embed-程序员的信仰"><div class="wp-block-embed__wrapper">
-http://www.jayxu.com/2011/01/27/10474
+https://www.jayxu.com/digital-legacy
 </div></figure>
 <!-- /wp:embed -->

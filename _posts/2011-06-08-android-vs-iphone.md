@@ -13,7 +13,7 @@ aktt_tweeted:
 dsq_thread_id:
     - '4575831808'
 views:
-    - '4058'
+    - '4204'
 shorturl:
     - 'http://goo.gl/uinlU'
 duoshuo_thread_id:
@@ -24,7 +24,7 @@ hefo_before:
     - '0'
 hefo_after:
     - '0'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2011/06/Android_vs_apple-550x344.jpg'
+image: /log/wp-content/uploads/2011/06/Android_vs_apple-550x344.jpg
 ---
 
 <p><a href="http://www.jayxu.com/log/wp-content/uploads/2011/06/Android_vs_apple-550x344.jpg"><img alt="" class="alignnone size-full wp-image-10600" height="344" src="http://www.jayxu.com/log/wp-content/uploads/2011/06/Android_vs_apple-550x344.jpg" title="Android_vs_apple" width="550" /></a></p>

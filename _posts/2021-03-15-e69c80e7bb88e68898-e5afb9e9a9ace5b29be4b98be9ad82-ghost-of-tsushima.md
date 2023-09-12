@@ -13,8 +13,8 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '737'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2021/03/2020073013134865.png'
+    - '1000'
+image: /log/wp-content/uploads/2021/03/2020073013134865.png
 ---
 
 <!-- wp:nextgenthemes/arve-block {"url":"https://v.youku.com/v_show/id_XNTEyMTcxNjI0OA==.html","title":"","description":"","align":"","aspect_ratio":"16:9","sandbox":true} /-->

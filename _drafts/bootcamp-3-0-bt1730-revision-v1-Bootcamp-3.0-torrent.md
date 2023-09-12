@@ -1,0 +1,13 @@
+---
+id: 17438
+title: 'Bootcamp 3.0 torrent'
+date: '2021-03-09T01:34:53+08:00'
+author: Jay
+layout: revision
+guid: 'https://www.jayxu.com/?p=17438'
+permalink: '/?p=17438'
+---
+
+给大白装上了SL，感觉的确是“enhancemeng more than recreation”，界面基本没变，但是一些操作细节变得更好用了，比如app的expose。还有就是SL带了bootcamp 3.0，也做了一些好用的更新，比如可以让BC里的windows能够直接访问mac磁盘，而且是读<span style="text-decoration: line-through;">写</span>权限。
+
+把bootcamp 3.0的BT种子放到了<a href="http://www.damipan.com/file/3OXev3r.html" target="_blank" rel="noopener">大米盘</a>上，需要的可以去下，900多兆

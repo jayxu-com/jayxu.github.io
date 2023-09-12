@@ -9,7 +9,7 @@ permalink: /2011/08/16/11645
 aktt_notify_twitter:
     - 'yes'
 views:
-    - '4732'
+    - '4952'
 aktt_tweeted:
     - '1'
 shorturl:
@@ -20,7 +20,7 @@ dsq_thread_id:
     - '4761284997'
 posturl_add_url:
     - 'yes'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2011/08/2774_1.jpg'
+image: /log/wp-content/uploads/2011/08/2774_1.jpg
 ---
 
 <p>昨晚劲爆消息，Google斥资125亿美元以40美元一股的价格收购摩托罗拉移动事业部全部股权。今天一早，各大网站纷纷撰文，对此次收购进行剖析、猜测、展望，现收集如下：</p>

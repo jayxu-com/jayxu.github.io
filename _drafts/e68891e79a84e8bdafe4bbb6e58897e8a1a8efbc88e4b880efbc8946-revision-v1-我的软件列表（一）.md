@@ -1,0 +1,17 @@
+---
+id: 18024
+title: 我的软件列表（一）
+date: '2022-03-09T00:21:22+08:00'
+author: Jay
+layout: revision
+guid: 'https://www.jayxu.com/?p=18024'
+permalink: '/?p=18024'
+---
+
+从今天开始连载共享我的软件列表，包括Windows和Mac下的（有时候可能会涉及Linux，毕竟当初倒腾了一年多的Linux，Fedora，SuSE，Ubuntu都玩过了），每个软件会带一些评论，仅供大家参考。
+
+<strong><span style="text-decoration: underline;">声明：本连载会涉及一些商业软件，本人不提供任何注册机或序列号，也不承担读者因非法使用带来的任何法律责任。</span></strong>
+
+免费又好用的防、杀毒软件：Avast! [Windows]（<a title="http://www.avast.com/index_cns.html" href="https://www.jayxu.com/log/wp-content/uploads/2007/09/index">http://www.avast.com/index_cns.html</a>）
+
+这款软件是在无意中发现的，体积还算小，安装完后180兆，网上的口碑也还行，得过一些评测机构的认证。特点是占较少内存，所有服务加起来也就占70兆左右。病毒库更新很快，一般一天1到2次，而且更新文件也就200K，算是小巧的了。目前最新版本4.7，下载完后申请一个Home version的注册号就能使用所有基本功能（防、杀毒，病毒库更新）。

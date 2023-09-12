@@ -9,12 +9,12 @@ permalink: /2022/01/28/17921
 posturl_add_url:
     - 'yes'
 views:
-    - '218'
+    - '410'
 hefo_before:
     - '0'
 hefo_after:
     - '0'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2022/01/immunity_2x.png'
+image: /log/wp-content/uploads/2022/01/immunity_2x.png
 ---
 
 <!-- wp:paragraph -->

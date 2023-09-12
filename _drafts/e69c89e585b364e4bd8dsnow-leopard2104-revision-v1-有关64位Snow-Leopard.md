@@ -1,0 +1,25 @@
+---
+id: 17434
+title: '有关64位Snow Leopard'
+date: '2021-03-09T01:34:01+08:00'
+author: Jay
+layout: revision
+guid: 'https://www.jayxu.com/?p=17434'
+permalink: '/?p=17434'
+---
+
+这篇小tip一直想写，却一直懒得写，今天补上
+<h3>64位的好处？</h3>
+谷歌一下你会知道得更多
+<h3>SL的默认设置？</h3>
+默认以64位兼容模式启动，即内核为32位，但兼容64位应用程序
+<h3>如何获知你的内核是跑在32位还是64位下？</h3>
+打开活动监视器，找到“kernal_task”，看“种类”一列（没有的话加上）是否是“Intel（64位）”
+<h3>如何知道你的系统是否支持64位？</h3>
+根据<a href="http://www.zdnet.com/blog/apple/will-your-mac-boot-64-bit-snow-leopard-by-default-not-unless-its-an-xserve/4712" target="_blank" rel="noopener">这篇</a>post，可以使用如下命令：
+<pre lang="bash">ioreg -l -p IODeviceTree | grep firmware-abi</pre>
+<h3>如何在启动时在32位与64位之间切换？</h3>
+启动时按住“3”和“2”键或“6”和“4”键（超赞apple这种灵光），但是需要注意，只在本次启动有效，重启后将回到之前的模式
+<h3>如何使内核一直以64位启动？</h3>
+根据<a href="http://mygrotto.org/2009/06/boot-64-bit-snow-leopard-kernel/" target="_blank" rel="noopener">这篇</a>post，使用如下命令：
+<pre lang="bash">nvram boot-args="arch=x86_64"</pre>

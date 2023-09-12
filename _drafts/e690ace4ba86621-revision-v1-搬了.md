@@ -1,0 +1,117 @@
+---
+id: 18419
+title: 搬了
+date: '2023-05-12T11:17:22+08:00'
+author: Jay
+layout: revision
+guid: 'https://www.jayxu.com/?p=18419'
+permalink: '/?p=18419'
+---
+
+<!-- wp:paragraph -->
+<p>趁着周末，借了J姐的车，把家给搬了，东西还挺多，拉了两趟才搬完。搬完后借光去了趟四元桥的宜家买了点家具，满足了一下宜家情结</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>开着车在北京转悠了一天，发现有辆车的确是一件很方便的事情，当然前提是不堵车（其实那天能在周末、晚上饭口、四环上跑得这么顺畅最大的原因就是奥运期间北京实行单双号），要不然这么多东西就只能找搬家公司，去宜家买大件也只能送货，相当的不省心。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>回到家把桌子拼了，宜家的DIY风格也是吸引我的原因之一。东西还没全部收拾完，先贴几张照片上来，当然，基本是宜家广告</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>玻璃杯（9.9）和水杯（16），玻璃器皿永远是最漂亮的</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":626,"linkDestination":"custom"} -->
+<figure class="wp-block-image aligncenter"><a href="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f189.jpg"><img src="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f189.jpg" alt="" class="wp-image-626" title="e59bbee5838f189"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>锣鼓巷买的招贴画</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":627,"linkDestination":"custom"} -->
+<figure class="wp-block-image aligncenter"><a href="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f188.jpg"><img src="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f188.jpg" alt="" class="wp-image-627" title="e59bbee5838f188"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>也是在锣鼓巷买的</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":628,"linkDestination":"custom"} -->
+<figure class="wp-block-image aligncenter"><a href="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f187.jpg"><img src="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f187.jpg" alt="" class="wp-image-628" title="e59bbee5838f187"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">愤青的墙</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":629,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f179.jpg"><img src="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f179.jpg" alt="" class="wp-image-629" title="e59bbee5838f179"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>地毯（99）</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":630,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f185.jpg"><img src="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f185.jpg" alt="" class="wp-image-630" title="e59bbee5838f185"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">椅子（45），买了两把，一黑一白</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":632,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f184.jpg"><img src="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f184.jpg" alt="" class="wp-image-632" title="e59bbee5838f184"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">桌子（199），书架（凯子留下的），鞋架（39）</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":633,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f180.jpg"><img src="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f180.jpg" alt="" class="wp-image-633" title="e59bbee5838f180"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">被偷拍…</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":634,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f1751.jpg"><img src="http://www.jayxu.com/log/wp-content/uploads/2008/09/e59bbee5838f1751.jpg" alt="" class="wp-image-634" title="e59bbee5838f1751"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"></p>
+<!-- /wp:paragraph -->

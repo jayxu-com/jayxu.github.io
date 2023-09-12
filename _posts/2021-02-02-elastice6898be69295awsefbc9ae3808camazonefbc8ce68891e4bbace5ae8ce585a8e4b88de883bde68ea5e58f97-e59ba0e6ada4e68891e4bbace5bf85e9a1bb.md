@@ -13,8 +13,8 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '793'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2021/02/blog-thumb-generic-elastic-lockup.png'
+    - '960'
+image: /log/wp-content/uploads/2021/02/blog-thumb-generic-elastic-lockup.png
 ---
 
 <!-- wp:paragraph -->

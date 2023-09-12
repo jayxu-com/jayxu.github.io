@@ -10,7 +10,7 @@ aktt_notify_twitter:
     - 'no'
     - 'no'
 views:
-    - '3643'
+    - '3826'
 shorturl:
     - 'http://goo.gl/aDfYd'
 duoshuo_thread_id:

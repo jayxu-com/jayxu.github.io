@@ -7,7 +7,7 @@ layout: post
 guid: 'http://ijay.net.cn/log/2008/03/17/305/'
 permalink: /2008/03/17/305
 views:
-    - '4062'
+    - '4489'
 shorturl:
     - 'http://goo.gl/e8fgM'
 duoshuo_thread_id:
@@ -16,4 +16,8 @@ posturl_add_url:
     - 'yes'
 ---
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="355" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent" /><param name="src" value="http://www.youtube.com/v/JCFFKrfO9Z0&amp;hl=en" /><embed type="application/x-shockwave-flash" width="425" height="355" src="http://www.youtube.com/v/JCFFKrfO9Z0&amp;hl=en" wmode="transparent"></embed></object>
+<!-- wp:embed {"url":"http://www.youtube.com/v/JCFFKrfO9Z0","type":"rich","providerNameSlug":"嵌入处理程序","responsive":true} -->
+<figure class="wp-block-embed is-type-rich is-provider-嵌入处理程序 wp-block-embed-嵌入处理程序"><div class="wp-block-embed__wrapper">
+http://www.youtube.com/v/JCFFKrfO9Z0
+</div></figure>
+<!-- /wp:embed -->

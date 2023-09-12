@@ -13,7 +13,7 @@ aktt_tweeted:
     - '1'
     - '1'
 views:
-    - '6822'
+    - '7143'
 shorturl:
     - 'http://goo.gl/RXRk4'
 posturl_add_url:

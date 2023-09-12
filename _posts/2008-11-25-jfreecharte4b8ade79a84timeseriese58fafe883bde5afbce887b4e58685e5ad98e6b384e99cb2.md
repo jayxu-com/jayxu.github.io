@@ -15,14 +15,14 @@ aktt_tweeted:
 dsq_thread_id:
     - '4271362572'
 views:
-    - '6365'
+    - '6579'
 shorturl:
     - 'http://goo.gl/7y4u6'
 duoshuo_thread_id:
     - '6.3356042421322E+18'
 posturl_add_url:
     - 'yes'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2008/11/mem_heap.png'
+image: /log/wp-content/uploads/2008/11/mem_heap.png
 ---
 
 前段时间说到现在的项目里在用JFreeChart。昨天晚上走之前没把客户端关掉，今天中午到公司发现程序已经崩了，狂抛OutOfMemoryError。用NB的profiler跟了一下，发现是JFreeChart或者说是没有正确使用JFreeChart的TimeSeries导致的后果

@@ -13,8 +13,8 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '1509'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2021/02/defi-decentralized-finance-background-on-an-ecosystem-1.jpg'
+    - '1726'
+image: /log/wp-content/uploads/2021/02/defi-decentralized-finance-background-on-an-ecosystem-1.jpg
 ---
 
 <!-- wp:file {"id":17356,"href":"https://www.jayxu.com/log/wp-content/uploads/2021/02/How-to-DeFi.pdf"} -->

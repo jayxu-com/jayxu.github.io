@@ -13,12 +13,12 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '4178'
+    - '4469'
 dsq_thread_id:
     - '4940149539'
 duoshuo_thread_id:
     - '6.3356053629174E+18'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2016/06/mytindifferenciaoutdoor_1_aotw-1024x624.jpg'
+image: /log/wp-content/uploads/2016/06/mytindifferenciaoutdoor_1_aotw-1024x624.jpg
 ---
 
 原文转自：<a href="http://adfuns.com/post/12150/" target="_blank">广告放肆

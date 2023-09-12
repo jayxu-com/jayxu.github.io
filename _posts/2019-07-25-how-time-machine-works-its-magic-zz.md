@@ -14,8 +14,8 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '1300'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2019/07/Time-Machine-screen-800x450.jpg'
+    - '1578'
+image: /log/wp-content/uploads/2019/07/Time-Machine-screen-800x450.jpg
 ---
 
 <!-- wp:quote -->

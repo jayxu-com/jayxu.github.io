@@ -9,12 +9,12 @@ permalink: /2015/12/25/14409
 posturl_add_url:
     - 'yes'
 views:
-    - '2412'
+    - '2679'
 dsq_thread_id:
     - '4432484352'
 duoshuo_thread_id:
     - '6.3356051610623E+18'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2015/12/002Xsxpdgy6GRUeG3FCf0-1.jpg'
+image: /log/wp-content/uploads/2015/12/002Xsxpdgy6GRUeG3FCf0-1.jpg
 ---
 
 原文转自马老的<a href="http://blog.sina.com.cn/s/blog_5054769e0102wite.html" target="_blank">博客</a>

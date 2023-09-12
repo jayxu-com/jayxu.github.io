@@ -7,7 +7,7 @@ layout: post
 guid: 'http://ijay.net.cn/?p=1757'
 permalink: /2009/09/15/1757
 views:
-    - '3920'
+    - '4152'
 shorturl:
     - 'http://goo.gl/zraok'
 duoshuo_thread_id:

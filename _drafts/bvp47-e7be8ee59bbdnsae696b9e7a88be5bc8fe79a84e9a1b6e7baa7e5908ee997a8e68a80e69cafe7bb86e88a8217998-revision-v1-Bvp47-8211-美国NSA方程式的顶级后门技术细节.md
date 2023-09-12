@@ -1,0 +1,25 @@
+---
+id: 18011
+title: 'Bvp47 &#8211; 美国NSA方程式的顶级后门技术细节'
+date: '2022-03-09T00:15:39+08:00'
+author: Jay
+layout: revision
+guid: 'https://www.jayxu.com/?p=18011'
+permalink: '/?p=18011'
+---
+
+<!-- wp:paragraph -->
+<p>原文：<a href="https://www.pangulab.cn/post/the_bvp47_a_top-tier_backdoor_of_us_nsa_equation_group/" target="_blank" rel="noreferrer noopener">盘古Lab</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:algori-pdf-viewer/block-algori-pdf-viewer {"url":"https://www.jayxu.com/log/wp-content/uploads/2022/03/The_Bvp47_a_top-tier_backdoor_of_us_nsa_equation_group.zh-cn.pdf","height":800,"id":17996} -->
+<div class="wp-block-algori-pdf-viewer-block-algori-pdf-viewer"><iframe class="wp-block-algori-pdf-viewer-block-algori-pdf-viewer-iframe" src="https://www.jayxu.com/wp-content/plugins/algori-pdf-viewer/dist/web/viewer.html?file=%2Flog%2Fwp-content%2Fuploads%2F2022%2F03%2FThe_Bvp47_a_top-tier_backdoor_of_us_nsa_equation_group.zh-cn.pdf" style="width:600px;height:800px"></iframe></div>
+<!-- /wp:algori-pdf-viewer/block-algori-pdf-viewer -->
+
+<!-- wp:heading {"level":1} -->
+<h1>Bvp47 - Top-tier Backdoor of US NSA Equation Group Technical Details</h1>
+<!-- /wp:heading -->
+
+<!-- wp:algori-pdf-viewer/block-algori-pdf-viewer {"url":"https://www.jayxu.com/log/wp-content/uploads/2022/03/The_Bvp47_a_top-tier_backdoor_of_us_nsa_equation_group.en_.pdf","height":800,"id":17997} -->
+<div class="wp-block-algori-pdf-viewer-block-algori-pdf-viewer"><iframe class="wp-block-algori-pdf-viewer-block-algori-pdf-viewer-iframe" src="https://www.jayxu.com/wp-content/plugins/algori-pdf-viewer/dist/web/viewer.html?file=%2Flog%2Fwp-content%2Fuploads%2F2022%2F03%2FThe_Bvp47_a_top-tier_backdoor_of_us_nsa_equation_group.en_.pdf" style="width:600px;height:800px"></iframe></div>
+<!-- /wp:algori-pdf-viewer/block-algori-pdf-viewer -->

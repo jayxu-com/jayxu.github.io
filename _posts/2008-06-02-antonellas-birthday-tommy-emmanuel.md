@@ -9,7 +9,7 @@ permalink: /2008/06/02/386
 dsq_thread_id:
     - '4271293332'
 views:
-    - '3570'
+    - '3783'
 shorturl:
     - 'http://goo.gl/WgNKh'
 duoshuo_thread_id:

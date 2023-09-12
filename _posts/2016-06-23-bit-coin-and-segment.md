@@ -9,12 +9,12 @@ permalink: /2016/06/23/14706
 posturl_add_url:
     - 'yes'
 views:
-    - '2768'
+    - '2986'
 dsq_thread_id:
     - '4932360756'
 duoshuo_thread_id:
     - '6.3356052385395E+18'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2016/06/1394520101341.jpg'
+image: /log/wp-content/uploads/2016/06/1394520101341.jpg
 ---
 
 原文转自：<a href="http://www.infoq.com/cn/articles/bitcoin-and-block-chain-part01" target="_blank">InfoQ</a>

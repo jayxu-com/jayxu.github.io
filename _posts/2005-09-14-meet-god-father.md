@@ -12,7 +12,7 @@ aktt_notify_twitter:
 dsq_thread_id:
     - '4271294696'
 views:
-    - '3934'
+    - '4127'
 shorturl:
     - 'http://goo.gl/ZCnJo'
 duoshuo_thread_id:
@@ -23,7 +23,7 @@ hefo_before:
     - '0'
 hefo_after:
     - '0'
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2016/11/james-gosling.jpg'
+image: /log/wp-content/uploads/2016/11/james-gosling.jpg
 ---
 
 今天是Java China 2005的最后一天，下午没有去各个分会场，而是去了长富宫饭店的“Java认证群英欢庆会”，目的只有一个：和Java之父James Gosling合影。

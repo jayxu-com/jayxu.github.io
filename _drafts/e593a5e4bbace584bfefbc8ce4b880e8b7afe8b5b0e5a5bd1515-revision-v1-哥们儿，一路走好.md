@@ -1,0 +1,27 @@
+---
+id: 17151
+title: 哥们儿，一路走好
+date: '2021-01-06T19:23:44+08:00'
+author: Jay
+layout: revision
+guid: 'https://www.jayxu.com/2021/01/06/17151'
+permalink: '/?p=17151'
+---
+
+<img class="alignnone size-medium wp-image-1510" title="dscn0733" src="http://www.jayxu.com/log/wp-content/uploads/2009/06/dscn0733.jpg" alt="dscn0733" width="480" height="360" />
+
+<img class="alignnone size-medium wp-image-1512" title="dscn0726" src="http://www.jayxu.com/log/wp-content/uploads/2009/06/dscn0726.jpg" alt="dscn0726" width="480" height="360" />
+
+<img class="alignnone size-medium wp-image-1514" title="dscn0714" src="http://www.jayxu.com/log/wp-content/uploads/2009/06/dscn0714.jpg" alt="dscn0714" width="480" height="360" />
+
+<img class="alignnone size-medium wp-image-1511" title="dsc02332" src="http://www.jayxu.com/log/wp-content/uploads/2009/06/dsc02332.jpg" alt="dsc02332" width="480" height="360" />
+
+<img class="alignnone size-medium wp-image-1520" title="img_0033" src="http://www.jayxu.com/log/wp-content/uploads/2009/06/img_0033.jpg" alt="img_0033" width="480" height="360" />
+
+<img class="alignnone size-medium wp-image-1518" title="img_0085" src="http://www.jayxu.com/log/wp-content/uploads/2009/06/img_0085.jpg" alt="img_0085" width="480" height="360" />
+
+<img class="alignnone size-medium wp-image-1517" title="img_0049_2" src="http://www.jayxu.com/log/wp-content/uploads/2009/06/img_0049_2.jpg" alt="img_0049_2" width="480" height="360" />
+
+<img class="alignnone size-medium wp-image-1519" title="img_0076_6" src="http://www.jayxu.com/log/wp-content/uploads/2009/06/img_0076_6.jpg" alt="img_0076_6" width="480" height="360" />
+
+<img class="alignnone size-medium wp-image-1521" title="dsc00306" src="http://www.jayxu.com/log/wp-content/uploads/2009/06/dsc00306.jpg" alt="dsc00306" width="480" height="360" />

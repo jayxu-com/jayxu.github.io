@@ -13,12 +13,12 @@ hefo_before:
 hefo_after:
     - '0'
 views:
-    - '203'
+    - '322'
 enclosure:
     - "https://www.jayxu.com/log/wp-content/uploads/video/328e7888d5ab4eaeb0587344a0485c9f.mp4\n29736960\nvideo/mp4\n"
-image: 'https://d1k8eqsfs47rrv.cloudfront.net/log/wp-content/uploads/2021/10/srchttp___inews.gtimg_.com_newsapp_match_0_11300179441_0.jpgreferhttp___inews.gtimg_-e1635493917453.jpeg'
+image: /log/wp-content/uploads/2021/10/srchttp___inews.gtimg_.com_newsapp_match_0_11300179441_0.jpgreferhttp___inews.gtimg_-e1635493917453.jpeg
 ---
 
-<!-- wp:video {"id":17872,"src":"https://www.jayxu.com/log/wp-content/uploads/video/328e7888d5ab4eaeb0587344a0485c9f.mp4"} -->
-<figure class="wp-block-video"><video controls src="https://www.jayxu.com/log/wp-content/uploads/video/328e7888d5ab4eaeb0587344a0485c9f.mp4"></video></figure>
+<!-- wp:video {"id":17872} -->
+<figure class="wp-block-video"><video controls src="https://www.jayxu.com/log/wp-content/uploads/video/328e7888d5ab4eaeb0587344a0485c9f.mp4" playsinline></video></figure>
 <!-- /wp:video -->
